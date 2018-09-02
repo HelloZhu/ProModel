@@ -1,0 +1,585 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		20ACD558213B8DAB00B5AFDA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD557213B8DAB00B5AFDA /* AppDelegate.m */; };
+		20ACD55B213B8DAB00B5AFDA /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD55A213B8DAB00B5AFDA /* FirstViewController.m */; };
+		20ACD55E213B8DAB00B5AFDA /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD55D213B8DAB00B5AFDA /* SecondViewController.m */; };
+		20ACD561213B8DAB00B5AFDA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD55F213B8DAB00B5AFDA /* Main.storyboard */; };
+		20ACD563213B8DAD00B5AFDA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD562213B8DAD00B5AFDA /* Assets.xcassets */; };
+		20ACD566213B8DAD00B5AFDA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD564213B8DAD00B5AFDA /* LaunchScreen.storyboard */; };
+		20ACD569213B8DAD00B5AFDA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD568213B8DAD00B5AFDA /* main.m */; };
+		20ACD571213B8E3300B5AFDA /* TabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD570213B8E3300B5AFDA /* TabBarController.m */; };
+		20ACD580213B8F3E00B5AFDA /* tabbar_comment@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD577213B8F3E00B5AFDA /* tabbar_comment@2x.png */; };
+		20ACD581213B8F3E00B5AFDA /* tabbar_comment_selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD578213B8F3E00B5AFDA /* tabbar_comment_selected@2x.png */; };
+		20ACD582213B8F3E00B5AFDA /* tabbar_help@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD579213B8F3E00B5AFDA /* tabbar_help@2x.png */; };
+		20ACD583213B8F3E00B5AFDA /* tabbar_help_selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD57A213B8F3E00B5AFDA /* tabbar_help_selected@2x.png */; };
+		20ACD584213B8F3E00B5AFDA /* tabbar_home@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD57B213B8F3E00B5AFDA /* tabbar_home@2x.png */; };
+		20ACD585213B8F3E00B5AFDA /* tabbar_home_selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD57C213B8F3E00B5AFDA /* tabbar_home_selected@2x.png */; };
+		20ACD586213B8F3E00B5AFDA /* tabbar_Me@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD57D213B8F3E00B5AFDA /* tabbar_Me@2x.png */; };
+		20ACD587213B8F3E00B5AFDA /* tabbar_Me_selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD57E213B8F3E00B5AFDA /* tabbar_Me_selected@2x.png */; };
+		20ACD588213B8F3E00B5AFDA /* TabBarBg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD57F213B8F3E00B5AFDA /* TabBarBg@2x.png */; };
+		20ACD58B213B8F8E00B5AFDA /* UIImage+OriginalMode.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD589213B8F8D00B5AFDA /* UIImage+OriginalMode.m */; };
+		20ACD58E213B932B00B5AFDA /* TabBarBg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD58D213B932B00B5AFDA /* TabBarBg@2x.png */; };
+		20ACD592213B93E200B5AFDA /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD590213B93E200B5AFDA /* MyViewController.m */; };
+		20ACD593213B93E200B5AFDA /* MyViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD591213B93E200B5AFDA /* MyViewController.xib */; };
+		20ACD59A213B986A00B5AFDA /* MainPageHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD599213B986A00B5AFDA /* MainPageHeader.m */; };
+		20ACD59C213B987900B5AFDA /* MainPageHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD59B213B987900B5AFDA /* MainPageHeader.xib */; };
+		20ACD5A4213BB1E200B5AFDA /* DetailTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD5A2213BB1E200B5AFDA /* DetailTableViewCell.m */; };
+		20ACD5A5213BB1E200B5AFDA /* DetailTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD5A3213BB1E200B5AFDA /* DetailTableViewCell.xib */; };
+		20ACD5A8213BB43B00B5AFDA /* SectionHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD5A7213BB43B00B5AFDA /* SectionHeader.m */; };
+		20ACD5AA213BB44A00B5AFDA /* SectionHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD5A9213BB44A00B5AFDA /* SectionHeader.xib */; };
+		20ACD5AE213BB83600B5AFDA /* QuweiTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD5AC213BB83600B5AFDA /* QuweiTableViewCell.m */; };
+		20ACD5AF213BB83600B5AFDA /* QuweiTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD5AD213BB83600B5AFDA /* QuweiTableViewCell.xib */; };
+		20ACD5B3213BBE1000B5AFDA /* JPTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD5B1213BBE1000B5AFDA /* JPTableViewCell.m */; };
+		20ACD5B4213BBE1000B5AFDA /* JPTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD5B2213BBE1000B5AFDA /* JPTableViewCell.xib */; };
+		20ACD5B7213BC15F00B5AFDA /* ListTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD5B6213BC15F00B5AFDA /* ListTableViewController.m */; };
+		20ACD5BB213BC2F600B5AFDA /* XQViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD5B9213BC2F600B5AFDA /* XQViewController.m */; };
+		20ACD5BC213BC2F600B5AFDA /* XQViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD5BA213BC2F600B5AFDA /* XQViewController.xib */; };
+		20ACD5BF213BC41600B5AFDA /* XQView.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD5BE213BC41600B5AFDA /* XQView.m */; };
+		20ACD5C1213BC42500B5AFDA /* XQView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD5C0213BC42500B5AFDA /* XQView.xib */; };
+		20ACD5C5213BD84E00B5AFDA /* BaoMingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD5C3213BD84E00B5AFDA /* BaoMingViewController.m */; };
+		20ACD5C6213BD84E00B5AFDA /* BaoMingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD5C4213BD84E00B5AFDA /* BaoMingViewController.xib */; };
+		20ACD5C9213BDD4800B5AFDA /* SecondHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD5C8213BDD4800B5AFDA /* SecondHeader.m */; };
+		20ACD5CB213BDD6000B5AFDA /* SecondHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD5CA213BDD6000B5AFDA /* SecondHeader.xib */; };
+		7A9EFC11D2EE93629C759137 /* libPods-TabProjectModel.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E8D5441B820708A1DAE8CCB /* libPods-TabProjectModel.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		20ACD553213B8DAB00B5AFDA /* TabProjectModel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabProjectModel.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		20ACD556213B8DAB00B5AFDA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		20ACD557213B8DAB00B5AFDA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		20ACD559213B8DAB00B5AFDA /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		20ACD55A213B8DAB00B5AFDA /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		20ACD55C213B8DAB00B5AFDA /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		20ACD55D213B8DAB00B5AFDA /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		20ACD560213B8DAB00B5AFDA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		20ACD562213B8DAD00B5AFDA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		20ACD565213B8DAD00B5AFDA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		20ACD567213B8DAD00B5AFDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20ACD568213B8DAD00B5AFDA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		20ACD56F213B8E3300B5AFDA /* TabBarController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TabBarController.h; sourceTree = "<group>"; };
+		20ACD570213B8E3300B5AFDA /* TabBarController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TabBarController.m; sourceTree = "<group>"; };
+		20ACD577213B8F3E00B5AFDA /* tabbar_comment@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_comment@2x.png"; sourceTree = "<group>"; };
+		20ACD578213B8F3E00B5AFDA /* tabbar_comment_selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_comment_selected@2x.png"; sourceTree = "<group>"; };
+		20ACD579213B8F3E00B5AFDA /* tabbar_help@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_help@2x.png"; sourceTree = "<group>"; };
+		20ACD57A213B8F3E00B5AFDA /* tabbar_help_selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_help_selected@2x.png"; sourceTree = "<group>"; };
+		20ACD57B213B8F3E00B5AFDA /* tabbar_home@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_home@2x.png"; sourceTree = "<group>"; };
+		20ACD57C213B8F3E00B5AFDA /* tabbar_home_selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_home_selected@2x.png"; sourceTree = "<group>"; };
+		20ACD57D213B8F3E00B5AFDA /* tabbar_Me@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_Me@2x.png"; sourceTree = "<group>"; };
+		20ACD57E213B8F3E00B5AFDA /* tabbar_Me_selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_Me_selected@2x.png"; sourceTree = "<group>"; };
+		20ACD57F213B8F3E00B5AFDA /* TabBarBg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TabBarBg@2x.png"; sourceTree = "<group>"; };
+		20ACD589213B8F8D00B5AFDA /* UIImage+OriginalMode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+OriginalMode.m"; sourceTree = "<group>"; };
+		20ACD58A213B8F8D00B5AFDA /* UIImage+OriginalMode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+OriginalMode.h"; sourceTree = "<group>"; };
+		20ACD58C213B8FC600B5AFDA /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		20ACD58D213B932B00B5AFDA /* TabBarBg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "TabBarBg@2x.png"; path = "../../../../zhf_ESD/trunk2/ESD/Resources/Images/TabBaricon/TabBarBg@2x.png"; sourceTree = "<group>"; };
+		20ACD58F213B93E200B5AFDA /* MyViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyViewController.h; sourceTree = "<group>"; };
+		20ACD590213B93E200B5AFDA /* MyViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyViewController.m; sourceTree = "<group>"; };
+		20ACD591213B93E200B5AFDA /* MyViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyViewController.xib; sourceTree = "<group>"; };
+		20ACD598213B986900B5AFDA /* MainPageHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainPageHeader.h; sourceTree = "<group>"; };
+		20ACD599213B986A00B5AFDA /* MainPageHeader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainPageHeader.m; sourceTree = "<group>"; };
+		20ACD59B213B987900B5AFDA /* MainPageHeader.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainPageHeader.xib; sourceTree = "<group>"; };
+		20ACD5A1213BB1E200B5AFDA /* DetailTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailTableViewCell.h; sourceTree = "<group>"; };
+		20ACD5A2213BB1E200B5AFDA /* DetailTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailTableViewCell.m; sourceTree = "<group>"; };
+		20ACD5A3213BB1E200B5AFDA /* DetailTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DetailTableViewCell.xib; sourceTree = "<group>"; };
+		20ACD5A6213BB43B00B5AFDA /* SectionHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SectionHeader.h; sourceTree = "<group>"; };
+		20ACD5A7213BB43B00B5AFDA /* SectionHeader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SectionHeader.m; sourceTree = "<group>"; };
+		20ACD5A9213BB44A00B5AFDA /* SectionHeader.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SectionHeader.xib; sourceTree = "<group>"; };
+		20ACD5AB213BB83600B5AFDA /* QuweiTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QuweiTableViewCell.h; sourceTree = "<group>"; };
+		20ACD5AC213BB83600B5AFDA /* QuweiTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QuweiTableViewCell.m; sourceTree = "<group>"; };
+		20ACD5AD213BB83600B5AFDA /* QuweiTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = QuweiTableViewCell.xib; sourceTree = "<group>"; };
+		20ACD5B0213BBE1000B5AFDA /* JPTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JPTableViewCell.h; sourceTree = "<group>"; };
+		20ACD5B1213BBE1000B5AFDA /* JPTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JPTableViewCell.m; sourceTree = "<group>"; };
+		20ACD5B2213BBE1000B5AFDA /* JPTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = JPTableViewCell.xib; sourceTree = "<group>"; };
+		20ACD5B5213BC15F00B5AFDA /* ListTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ListTableViewController.h; sourceTree = "<group>"; };
+		20ACD5B6213BC15F00B5AFDA /* ListTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ListTableViewController.m; sourceTree = "<group>"; };
+		20ACD5B8213BC2F600B5AFDA /* XQViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XQViewController.h; sourceTree = "<group>"; };
+		20ACD5B9213BC2F600B5AFDA /* XQViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XQViewController.m; sourceTree = "<group>"; };
+		20ACD5BA213BC2F600B5AFDA /* XQViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = XQViewController.xib; sourceTree = "<group>"; };
+		20ACD5BD213BC41600B5AFDA /* XQView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XQView.h; sourceTree = "<group>"; };
+		20ACD5BE213BC41600B5AFDA /* XQView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XQView.m; sourceTree = "<group>"; };
+		20ACD5C0213BC42500B5AFDA /* XQView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = XQView.xib; sourceTree = "<group>"; };
+		20ACD5C2213BD84E00B5AFDA /* BaoMingViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaoMingViewController.h; sourceTree = "<group>"; };
+		20ACD5C3213BD84E00B5AFDA /* BaoMingViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BaoMingViewController.m; sourceTree = "<group>"; };
+		20ACD5C4213BD84E00B5AFDA /* BaoMingViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BaoMingViewController.xib; sourceTree = "<group>"; };
+		20ACD5C7213BDD4800B5AFDA /* SecondHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondHeader.h; sourceTree = "<group>"; };
+		20ACD5C8213BDD4800B5AFDA /* SecondHeader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondHeader.m; sourceTree = "<group>"; };
+		20ACD5CA213BDD6000B5AFDA /* SecondHeader.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SecondHeader.xib; sourceTree = "<group>"; };
+		318F23013340AA8F0E4B5830 /* Pods-TabProjectModel.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TabProjectModel.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TabProjectModel/Pods-TabProjectModel.debug.xcconfig"; sourceTree = "<group>"; };
+		3E8D5441B820708A1DAE8CCB /* libPods-TabProjectModel.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TabProjectModel.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6D9DAE1D778200950484644C /* Pods-TabProjectModel.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TabProjectModel.release.xcconfig"; path = "Pods/Target Support Files/Pods-TabProjectModel/Pods-TabProjectModel.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		20ACD550213B8DAA00B5AFDA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7A9EFC11D2EE93629C759137 /* libPods-TabProjectModel.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		20ACD54A213B8DAA00B5AFDA = {
+			isa = PBXGroup;
+			children = (
+				20ACD555213B8DAB00B5AFDA /* TabProjectModel */,
+				20ACD554213B8DAB00B5AFDA /* Products */,
+				4A621AF4C342D2F356B28D73 /* Pods */,
+				A3DCD579330499672B3E52A8 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		20ACD554213B8DAB00B5AFDA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				20ACD553213B8DAB00B5AFDA /* TabProjectModel.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		20ACD555213B8DAB00B5AFDA /* TabProjectModel */ = {
+			isa = PBXGroup;
+			children = (
+				20ACD556213B8DAB00B5AFDA /* AppDelegate.h */,
+				20ACD557213B8DAB00B5AFDA /* AppDelegate.m */,
+				20ACD56F213B8E3300B5AFDA /* TabBarController.h */,
+				20ACD570213B8E3300B5AFDA /* TabBarController.m */,
+				20ACD559213B8DAB00B5AFDA /* FirstViewController.h */,
+				20ACD55A213B8DAB00B5AFDA /* FirstViewController.m */,
+				20ACD55C213B8DAB00B5AFDA /* SecondViewController.h */,
+				20ACD55D213B8DAB00B5AFDA /* SecondViewController.m */,
+				20ACD5C7213BDD4800B5AFDA /* SecondHeader.h */,
+				20ACD5C8213BDD4800B5AFDA /* SecondHeader.m */,
+				20ACD5CA213BDD6000B5AFDA /* SecondHeader.xib */,
+				20ACD58F213B93E200B5AFDA /* MyViewController.h */,
+				20ACD590213B93E200B5AFDA /* MyViewController.m */,
+				20ACD591213B93E200B5AFDA /* MyViewController.xib */,
+				20ACD5B5213BC15F00B5AFDA /* ListTableViewController.h */,
+				20ACD5B6213BC15F00B5AFDA /* ListTableViewController.m */,
+				20ACD5B8213BC2F600B5AFDA /* XQViewController.h */,
+				20ACD5B9213BC2F600B5AFDA /* XQViewController.m */,
+				20ACD5BA213BC2F600B5AFDA /* XQViewController.xib */,
+				20ACD5C2213BD84E00B5AFDA /* BaoMingViewController.h */,
+				20ACD5C3213BD84E00B5AFDA /* BaoMingViewController.m */,
+				20ACD5C4213BD84E00B5AFDA /* BaoMingViewController.xib */,
+				20ACD5BD213BC41600B5AFDA /* XQView.h */,
+				20ACD5BE213BC41600B5AFDA /* XQView.m */,
+				20ACD5C0213BC42500B5AFDA /* XQView.xib */,
+				20ACD58A213B8F8D00B5AFDA /* UIImage+OriginalMode.h */,
+				20ACD589213B8F8D00B5AFDA /* UIImage+OriginalMode.m */,
+				20ACD598213B986900B5AFDA /* MainPageHeader.h */,
+				20ACD599213B986A00B5AFDA /* MainPageHeader.m */,
+				20ACD59B213B987900B5AFDA /* MainPageHeader.xib */,
+				20ACD5A1213BB1E200B5AFDA /* DetailTableViewCell.h */,
+				20ACD5A2213BB1E200B5AFDA /* DetailTableViewCell.m */,
+				20ACD5A3213BB1E200B5AFDA /* DetailTableViewCell.xib */,
+				20ACD58C213B8FC600B5AFDA /* PrefixHeader.pch */,
+				20ACD5A6213BB43B00B5AFDA /* SectionHeader.h */,
+				20ACD5A7213BB43B00B5AFDA /* SectionHeader.m */,
+				20ACD5A9213BB44A00B5AFDA /* SectionHeader.xib */,
+				20ACD5AB213BB83600B5AFDA /* QuweiTableViewCell.h */,
+				20ACD5AC213BB83600B5AFDA /* QuweiTableViewCell.m */,
+				20ACD5AD213BB83600B5AFDA /* QuweiTableViewCell.xib */,
+				20ACD5B0213BBE1000B5AFDA /* JPTableViewCell.h */,
+				20ACD5B1213BBE1000B5AFDA /* JPTableViewCell.m */,
+				20ACD5B2213BBE1000B5AFDA /* JPTableViewCell.xib */,
+				20ACD576213B8F3E00B5AFDA /* TabBaricon */,
+				20ACD55F213B8DAB00B5AFDA /* Main.storyboard */,
+				20ACD562213B8DAD00B5AFDA /* Assets.xcassets */,
+				20ACD564213B8DAD00B5AFDA /* LaunchScreen.storyboard */,
+				20ACD567213B8DAD00B5AFDA /* Info.plist */,
+				20ACD568213B8DAD00B5AFDA /* main.m */,
+			);
+			path = TabProjectModel;
+			sourceTree = "<group>";
+		};
+		20ACD576213B8F3E00B5AFDA /* TabBaricon */ = {
+			isa = PBXGroup;
+			children = (
+				20ACD577213B8F3E00B5AFDA /* tabbar_comment@2x.png */,
+				20ACD578213B8F3E00B5AFDA /* tabbar_comment_selected@2x.png */,
+				20ACD579213B8F3E00B5AFDA /* tabbar_help@2x.png */,
+				20ACD57A213B8F3E00B5AFDA /* tabbar_help_selected@2x.png */,
+				20ACD57B213B8F3E00B5AFDA /* tabbar_home@2x.png */,
+				20ACD57C213B8F3E00B5AFDA /* tabbar_home_selected@2x.png */,
+				20ACD57D213B8F3E00B5AFDA /* tabbar_Me@2x.png */,
+				20ACD57E213B8F3E00B5AFDA /* tabbar_Me_selected@2x.png */,
+				20ACD58D213B932B00B5AFDA /* TabBarBg@2x.png */,
+				20ACD57F213B8F3E00B5AFDA /* TabBarBg@2x.png */,
+			);
+			path = TabBaricon;
+			sourceTree = "<group>";
+		};
+		4A621AF4C342D2F356B28D73 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				318F23013340AA8F0E4B5830 /* Pods-TabProjectModel.debug.xcconfig */,
+				6D9DAE1D778200950484644C /* Pods-TabProjectModel.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		A3DCD579330499672B3E52A8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3E8D5441B820708A1DAE8CCB /* libPods-TabProjectModel.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		20ACD552213B8DAA00B5AFDA /* TabProjectModel */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 20ACD56C213B8DAD00B5AFDA /* Build configuration list for PBXNativeTarget "TabProjectModel" */;
+			buildPhases = (
+				8A3519FA33208ECC99828947 /* [CP] Check Pods Manifest.lock */,
+				20ACD54F213B8DAA00B5AFDA /* Sources */,
+				20ACD550213B8DAA00B5AFDA /* Frameworks */,
+				20ACD551213B8DAA00B5AFDA /* Resources */,
+				E1520344352A3FB7EA6A37A9 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TabProjectModel;
+			productName = TabProjectModel;
+			productReference = 20ACD553213B8DAB00B5AFDA /* TabProjectModel.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		20ACD54B213B8DAA00B5AFDA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0940;
+				ORGANIZATIONNAME = ap2;
+				TargetAttributes = {
+					20ACD552213B8DAA00B5AFDA = {
+						CreatedOnToolsVersion = 9.4.1;
+					};
+				};
+			};
+			buildConfigurationList = 20ACD54E213B8DAA00B5AFDA /* Build configuration list for PBXProject "TabProjectModel" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 20ACD54A213B8DAA00B5AFDA;
+			productRefGroup = 20ACD554213B8DAB00B5AFDA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				20ACD552213B8DAA00B5AFDA /* TabProjectModel */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		20ACD551213B8DAA00B5AFDA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				20ACD593213B93E200B5AFDA /* MyViewController.xib in Resources */,
+				20ACD581213B8F3E00B5AFDA /* tabbar_comment_selected@2x.png in Resources */,
+				20ACD5C6213BD84E00B5AFDA /* BaoMingViewController.xib in Resources */,
+				20ACD582213B8F3E00B5AFDA /* tabbar_help@2x.png in Resources */,
+				20ACD5AA213BB44A00B5AFDA /* SectionHeader.xib in Resources */,
+				20ACD583213B8F3E00B5AFDA /* tabbar_help_selected@2x.png in Resources */,
+				20ACD5BC213BC2F600B5AFDA /* XQViewController.xib in Resources */,
+				20ACD584213B8F3E00B5AFDA /* tabbar_home@2x.png in Resources */,
+				20ACD585213B8F3E00B5AFDA /* tabbar_home_selected@2x.png in Resources */,
+				20ACD588213B8F3E00B5AFDA /* TabBarBg@2x.png in Resources */,
+				20ACD580213B8F3E00B5AFDA /* tabbar_comment@2x.png in Resources */,
+				20ACD58E213B932B00B5AFDA /* TabBarBg@2x.png in Resources */,
+				20ACD586213B8F3E00B5AFDA /* tabbar_Me@2x.png in Resources */,
+				20ACD566213B8DAD00B5AFDA /* LaunchScreen.storyboard in Resources */,
+				20ACD563213B8DAD00B5AFDA /* Assets.xcassets in Resources */,
+				20ACD587213B8F3E00B5AFDA /* tabbar_Me_selected@2x.png in Resources */,
+				20ACD5C1213BC42500B5AFDA /* XQView.xib in Resources */,
+				20ACD561213B8DAB00B5AFDA /* Main.storyboard in Resources */,
+				20ACD5AF213BB83600B5AFDA /* QuweiTableViewCell.xib in Resources */,
+				20ACD5A5213BB1E200B5AFDA /* DetailTableViewCell.xib in Resources */,
+				20ACD5CB213BDD6000B5AFDA /* SecondHeader.xib in Resources */,
+				20ACD5B4213BBE1000B5AFDA /* JPTableViewCell.xib in Resources */,
+				20ACD59C213B987900B5AFDA /* MainPageHeader.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		8A3519FA33208ECC99828947 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TabProjectModel-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E1520344352A3FB7EA6A37A9 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-TabProjectModel/Pods-TabProjectModel-resources.sh",
+				"${PODS_ROOT}/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SVProgressHUD.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TabProjectModel/Pods-TabProjectModel-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		20ACD54F213B8DAA00B5AFDA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				20ACD5A8213BB43B00B5AFDA /* SectionHeader.m in Sources */,
+				20ACD5B3213BBE1000B5AFDA /* JPTableViewCell.m in Sources */,
+				20ACD5B7213BC15F00B5AFDA /* ListTableViewController.m in Sources */,
+				20ACD55E213B8DAB00B5AFDA /* SecondViewController.m in Sources */,
+				20ACD558213B8DAB00B5AFDA /* AppDelegate.m in Sources */,
+				20ACD5AE213BB83600B5AFDA /* QuweiTableViewCell.m in Sources */,
+				20ACD5C9213BDD4800B5AFDA /* SecondHeader.m in Sources */,
+				20ACD571213B8E3300B5AFDA /* TabBarController.m in Sources */,
+				20ACD5A4213BB1E200B5AFDA /* DetailTableViewCell.m in Sources */,
+				20ACD569213B8DAD00B5AFDA /* main.m in Sources */,
+				20ACD5BB213BC2F600B5AFDA /* XQViewController.m in Sources */,
+				20ACD55B213B8DAB00B5AFDA /* FirstViewController.m in Sources */,
+				20ACD58B213B8F8E00B5AFDA /* UIImage+OriginalMode.m in Sources */,
+				20ACD59A213B986A00B5AFDA /* MainPageHeader.m in Sources */,
+				20ACD592213B93E200B5AFDA /* MyViewController.m in Sources */,
+				20ACD5C5213BD84E00B5AFDA /* BaoMingViewController.m in Sources */,
+				20ACD5BF213BC41600B5AFDA /* XQView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		20ACD55F213B8DAB00B5AFDA /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				20ACD560213B8DAB00B5AFDA /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		20ACD564213B8DAD00B5AFDA /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				20ACD565213B8DAD00B5AFDA /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		20ACD56A213B8DAD00B5AFDA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		20ACD56B213B8DAD00B5AFDA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		20ACD56D213B8DAD00B5AFDA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 318F23013340AA8F0E4B5830 /* Pods-TabProjectModel.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = A2W2B2GJC6;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/TabProjectModel/PrefixHeader.pch";
+				INFOPLIST_FILE = TabProjectModel/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com..TabProjectModel;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		20ACD56E213B8DAD00B5AFDA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6D9DAE1D778200950484644C /* Pods-TabProjectModel.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = A2W2B2GJC6;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/TabProjectModel/PrefixHeader.pch";
+				INFOPLIST_FILE = TabProjectModel/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com..TabProjectModel;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		20ACD54E213B8DAA00B5AFDA /* Build configuration list for PBXProject "TabProjectModel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				20ACD56A213B8DAD00B5AFDA /* Debug */,
+				20ACD56B213B8DAD00B5AFDA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		20ACD56C213B8DAD00B5AFDA /* Build configuration list for PBXNativeTarget "TabProjectModel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				20ACD56D213B8DAD00B5AFDA /* Debug */,
+				20ACD56E213B8DAD00B5AFDA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 20ACD54B213B8DAA00B5AFDA /* Project object */;
+}
