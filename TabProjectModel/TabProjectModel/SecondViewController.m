@@ -85,6 +85,7 @@
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
     XQViewController *xq = [[XQViewController alloc] initWithNibName:@"XQViewController" bundle:[NSBundle mainBundle]];
+    xq.hidesBottomBarWhenPushed = YES;
     [self.navigationController pushViewController:xq animated:YES];
 }
 @end

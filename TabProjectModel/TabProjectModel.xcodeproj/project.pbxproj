@@ -25,7 +25,6 @@
 		20ACD587213B8F3E00B5AFDA /* tabbar_Me_selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD57E213B8F3E00B5AFDA /* tabbar_Me_selected@2x.png */; };
 		20ACD588213B8F3E00B5AFDA /* TabBarBg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD57F213B8F3E00B5AFDA /* TabBarBg@2x.png */; };
 		20ACD58B213B8F8E00B5AFDA /* UIImage+OriginalMode.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD589213B8F8D00B5AFDA /* UIImage+OriginalMode.m */; };
-		20ACD58E213B932B00B5AFDA /* TabBarBg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD58D213B932B00B5AFDA /* TabBarBg@2x.png */; };
 		20ACD592213B93E200B5AFDA /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD590213B93E200B5AFDA /* MyViewController.m */; };
 		20ACD593213B93E200B5AFDA /* MyViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD591213B93E200B5AFDA /* MyViewController.xib */; };
 		20ACD59A213B986A00B5AFDA /* MainPageHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD599213B986A00B5AFDA /* MainPageHeader.m */; };
@@ -77,7 +76,6 @@
 		20ACD589213B8F8D00B5AFDA /* UIImage+OriginalMode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+OriginalMode.m"; sourceTree = "<group>"; };
 		20ACD58A213B8F8D00B5AFDA /* UIImage+OriginalMode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+OriginalMode.h"; sourceTree = "<group>"; };
 		20ACD58C213B8FC600B5AFDA /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
-		20ACD58D213B932B00B5AFDA /* TabBarBg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "TabBarBg@2x.png"; path = "../../../../zhf_ESD/trunk2/ESD/Resources/Images/TabBaricon/TabBarBg@2x.png"; sourceTree = "<group>"; };
 		20ACD58F213B93E200B5AFDA /* MyViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyViewController.h; sourceTree = "<group>"; };
 		20ACD590213B93E200B5AFDA /* MyViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyViewController.m; sourceTree = "<group>"; };
 		20ACD591213B93E200B5AFDA /* MyViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyViewController.xib; sourceTree = "<group>"; };
@@ -212,7 +210,6 @@
 				20ACD57C213B8F3E00B5AFDA /* tabbar_home_selected@2x.png */,
 				20ACD57D213B8F3E00B5AFDA /* tabbar_Me@2x.png */,
 				20ACD57E213B8F3E00B5AFDA /* tabbar_Me_selected@2x.png */,
-				20ACD58D213B932B00B5AFDA /* TabBarBg@2x.png */,
 				20ACD57F213B8F3E00B5AFDA /* TabBarBg@2x.png */,
 			);
 			path = TabBaricon;
@@ -305,7 +302,6 @@
 				20ACD585213B8F3E00B5AFDA /* tabbar_home_selected@2x.png in Resources */,
 				20ACD588213B8F3E00B5AFDA /* TabBarBg@2x.png in Resources */,
 				20ACD580213B8F3E00B5AFDA /* tabbar_comment@2x.png in Resources */,
-				20ACD58E213B932B00B5AFDA /* TabBarBg@2x.png in Resources */,
 				20ACD586213B8F3E00B5AFDA /* tabbar_Me@2x.png in Resources */,
 				20ACD566213B8DAD00B5AFDA /* LaunchScreen.storyboard in Resources */,
 				20ACD563213B8DAD00B5AFDA /* Assets.xcassets in Resources */,
