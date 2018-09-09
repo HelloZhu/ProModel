@@ -47,6 +47,9 @@
 		20ACD5C9213BDD4800B5AFDA /* SecondHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD5C8213BDD4800B5AFDA /* SecondHeader.m */; };
 		20ACD5CB213BDD6000B5AFDA /* SecondHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD5CA213BDD6000B5AFDA /* SecondHeader.xib */; };
 		7A9EFC11D2EE93629C759137 /* libPods-TabProjectModel.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E8D5441B820708A1DAE8CCB /* libPods-TabProjectModel.a */; };
+		A7C54AD22144EB8B0050B0EF /* UIButton+JKImagePosition.m in Sources */ = {isa = PBXBuildFile; fileRef = A7C54AD12144EB8B0050B0EF /* UIButton+JKImagePosition.m */; };
+		A7C54AD52144F25A0050B0EF /* MyHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = A7C54AD42144F25A0050B0EF /* MyHeader.m */; };
+		A7C54AD72144F2680050B0EF /* MyHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = A7C54AD62144F2680050B0EF /* MyHeader.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -111,6 +114,11 @@
 		318F23013340AA8F0E4B5830 /* Pods-TabProjectModel.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TabProjectModel.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TabProjectModel/Pods-TabProjectModel.debug.xcconfig"; sourceTree = "<group>"; };
 		3E8D5441B820708A1DAE8CCB /* libPods-TabProjectModel.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TabProjectModel.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D9DAE1D778200950484644C /* Pods-TabProjectModel.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TabProjectModel.release.xcconfig"; path = "Pods/Target Support Files/Pods-TabProjectModel/Pods-TabProjectModel.release.xcconfig"; sourceTree = "<group>"; };
+		A7C54AD02144EB8B0050B0EF /* UIButton+JKImagePosition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+JKImagePosition.h"; sourceTree = "<group>"; };
+		A7C54AD12144EB8B0050B0EF /* UIButton+JKImagePosition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+JKImagePosition.m"; sourceTree = "<group>"; };
+		A7C54AD32144F25A0050B0EF /* MyHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyHeader.h; sourceTree = "<group>"; };
+		A7C54AD42144F25A0050B0EF /* MyHeader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyHeader.m; sourceTree = "<group>"; };
+		A7C54AD62144F2680050B0EF /* MyHeader.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyHeader.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,6 +197,11 @@
 				20ACD5B0213BBE1000B5AFDA /* JPTableViewCell.h */,
 				20ACD5B1213BBE1000B5AFDA /* JPTableViewCell.m */,
 				20ACD5B2213BBE1000B5AFDA /* JPTableViewCell.xib */,
+				A7C54AD02144EB8B0050B0EF /* UIButton+JKImagePosition.h */,
+				A7C54AD12144EB8B0050B0EF /* UIButton+JKImagePosition.m */,
+				A7C54AD32144F25A0050B0EF /* MyHeader.h */,
+				A7C54AD42144F25A0050B0EF /* MyHeader.m */,
+				A7C54AD62144F2680050B0EF /* MyHeader.xib */,
 				20ACD576213B8F3E00B5AFDA /* TabBaricon */,
 				20ACD55F213B8DAB00B5AFDA /* Main.storyboard */,
 				20ACD562213B8DAD00B5AFDA /* Assets.xcassets */,
@@ -306,6 +319,7 @@
 				20ACD566213B8DAD00B5AFDA /* LaunchScreen.storyboard in Resources */,
 				20ACD563213B8DAD00B5AFDA /* Assets.xcassets in Resources */,
 				20ACD587213B8F3E00B5AFDA /* tabbar_Me_selected@2x.png in Resources */,
+				A7C54AD72144F2680050B0EF /* MyHeader.xib in Resources */,
 				20ACD5C1213BC42500B5AFDA /* XQView.xib in Resources */,
 				20ACD561213B8DAB00B5AFDA /* Main.storyboard in Resources */,
 				20ACD5AF213BB83600B5AFDA /* QuweiTableViewCell.xib in Resources */,
@@ -368,6 +382,7 @@
 				20ACD55E213B8DAB00B5AFDA /* SecondViewController.m in Sources */,
 				20ACD558213B8DAB00B5AFDA /* AppDelegate.m in Sources */,
 				20ACD5AE213BB83600B5AFDA /* QuweiTableViewCell.m in Sources */,
+				A7C54AD52144F25A0050B0EF /* MyHeader.m in Sources */,
 				20ACD5C9213BDD4800B5AFDA /* SecondHeader.m in Sources */,
 				20ACD571213B8E3300B5AFDA /* TabBarController.m in Sources */,
 				20ACD5A4213BB1E200B5AFDA /* DetailTableViewCell.m in Sources */,
@@ -375,6 +390,7 @@
 				20ACD5BB213BC2F600B5AFDA /* XQViewController.m in Sources */,
 				20ACD55B213B8DAB00B5AFDA /* FirstViewController.m in Sources */,
 				20ACD58B213B8F8E00B5AFDA /* UIImage+OriginalMode.m in Sources */,
+				A7C54AD22144EB8B0050B0EF /* UIButton+JKImagePosition.m in Sources */,
 				20ACD59A213B986A00B5AFDA /* MainPageHeader.m in Sources */,
 				20ACD592213B93E200B5AFDA /* MyViewController.m in Sources */,
 				20ACD5C5213BD84E00B5AFDA /* BaoMingViewController.m in Sources */,

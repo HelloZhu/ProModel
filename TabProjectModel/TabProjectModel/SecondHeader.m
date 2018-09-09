@@ -7,15 +7,25 @@
 //
 
 #import "SecondHeader.h"
+#import "UIButton+JKImagePosition.h"
 
 @implementation SecondHeader
 
-/*
-// Only override drawRect: if you perform custom drawing.
-// An empty implementation adversely affects performance during animation.
-- (void)drawRect:(CGRect)rect {
-    // Drawing code
+- (void)awakeFromNib
+{
+    [super awakeFromNib];
+    
+     [self.tg jk_setImagePosition:LXMImagePositionTop spacing:5];
+     [self.cy jk_setImagePosition:LXMImagePositionTop spacing:5];
+     [self.dg jk_setImagePosition:LXMImagePositionTop spacing:5];
+     [self.cyjn jk_setImagePosition:LXMImagePositionTop spacing:5];
+     [self.wlcc jk_setImagePosition:LXMImagePositionTop spacing:5];
+    
+    [self.zhyc jk_setImagePosition:LXMImagePositionTop spacing:5];
+    [self.jjpx jk_setImagePosition:LXMImagePositionTop spacing:5];
+    [self.kfhw jk_setImagePosition:LXMImagePositionTop spacing:5];
+    [self.wyzl jk_setImagePosition:LXMImagePositionTop spacing:5];
+    [self.qt jk_setImagePosition:LXMImagePositionTop spacing:5];
 }
-*/
 
 @end

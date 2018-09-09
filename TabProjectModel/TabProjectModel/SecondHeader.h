@@ -9,5 +9,15 @@
 #import <UIKit/UIKit.h>
 
 @interface SecondHeader : UIView
+@property (weak, nonatomic) IBOutlet UIButton *tg;
+@property (weak, nonatomic) IBOutlet UIButton *cy;
+@property (weak, nonatomic) IBOutlet UIButton *dg;
+@property (weak, nonatomic) IBOutlet UIButton *cyjn;
+@property (weak, nonatomic) IBOutlet UIButton *wlcc;
+@property (weak, nonatomic) IBOutlet UIButton *zhyc;
+@property (weak, nonatomic) IBOutlet UIButton *jjpx;
+@property (weak, nonatomic) IBOutlet UIButton *kfhw;
+@property (weak, nonatomic) IBOutlet UIButton *wyzl;
+@property (weak, nonatomic) IBOutlet UIButton *qt;
 
 @end
