@@ -19,22 +19,40 @@
                 <rect key="frame" x="0.0" y="0.0" width="320" height="122.5"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
-                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="jp1" translatesAutoresizingMaskIntoConstraints="NO" id="8tf-uQ-0Uo">
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="8tf-uQ-0Uo">
                         <rect key="frame" x="15" y="5" width="290" height="112.5"/>
                     </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GJ1-cC-CdW">
+                        <rect key="frame" x="139" y="32" width="42" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Kfy-bu-6bT">
+                        <rect key="frame" x="144" y="61" width="33" height="16"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
                 </subviews>
                 <constraints>
                     <constraint firstItem="8tf-uQ-0Uo" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="UFD-4p-rq9"/>
                     <constraint firstAttribute="bottom" secondItem="8tf-uQ-0Uo" secondAttribute="bottom" constant="5" id="WE0-M2-lgo"/>
+                    <constraint firstItem="GJ1-cC-CdW" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="32" id="bcK-i7-V6D"/>
+                    <constraint firstItem="Kfy-bu-6bT" firstAttribute="centerX" secondItem="GJ1-cC-CdW" secondAttribute="centerX" id="edc-06-m7V"/>
+                    <constraint firstItem="Kfy-bu-6bT" firstAttribute="top" secondItem="GJ1-cC-CdW" secondAttribute="bottom" constant="8" id="etf-sh-fO5"/>
                     <constraint firstAttribute="trailing" secondItem="8tf-uQ-0Uo" secondAttribute="trailing" constant="15" id="f0C-Sl-f5t"/>
+                    <constraint firstItem="GJ1-cC-CdW" firstAttribute="centerX" secondItem="H2p-sc-9uM" secondAttribute="centerX" id="vA4-rk-9pt"/>
                     <constraint firstItem="8tf-uQ-0Uo" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="15" id="zOA-th-wBP"/>
                 </constraints>
             </tableViewCellContentView>
             <viewLayoutGuide key="safeArea" id="aW0-zy-SZf"/>
-            <point key="canvasLocation" x="25" y="91.5"/>
+            <connections>
+                <outlet property="bgimageView" destination="8tf-uQ-0Uo" id="CWB-gi-Lr9"/>
+                <outlet property="subtitle" destination="Kfy-bu-6bT" id="gcl-5S-cPF"/>
+                <outlet property="title" destination="GJ1-cC-CdW" id="u01-Qh-5kU"/>
+            </connections>
+            <point key="canvasLocation" x="44" y="109"/>
         </tableViewCell>
     </objects>
-    <resources>
-        <image name="jp1" width="560" height="198"/>
-    </resources>
 </document>

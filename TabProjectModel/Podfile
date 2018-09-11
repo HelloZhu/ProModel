@@ -13,4 +13,5 @@ pod 'Masonry'
 pod 'YYModel', '~> 1.0.4'
 pod 'SVProgressHUD'
 pod 'YYText'
+pod 'IQKeyboardManager'
 end

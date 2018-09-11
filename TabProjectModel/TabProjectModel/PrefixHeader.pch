@@ -14,5 +14,7 @@
 #define kIMG_STRETCH(name, leftCap, topCap) [[UIImage imageNamed:name] stretchableImageWithLeftCapWidth:leftCap topCapHeight:topCap]
 #import "UIImage+OriginalMode.h"
 #import <WMPageController/WMPageController.h>
-
+#import <YYModel/YYModel.h>
+#import <UIImageView+WebCache.h>
+#import <UIButton+WebCache.h>
 #endif /* PrefixHeader_pch */

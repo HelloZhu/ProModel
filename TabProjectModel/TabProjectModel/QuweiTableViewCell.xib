@@ -144,6 +144,16 @@
                 </constraints>
             </tableViewCellContentView>
             <viewLayoutGuide key="safeArea" id="aW0-zy-SZf"/>
+            <connections>
+                <outlet property="first" destination="zvv-fp-DVg" id="kf6-YC-5gi"/>
+                <outlet property="firsttag" destination="0Qc-a3-shi" id="Rtx-qb-aPF"/>
+                <outlet property="fouth" destination="WHo-0k-dP8" id="lbg-VO-h6O"/>
+                <outlet property="fouthtag" destination="orB-PT-B6H" id="UTe-hS-MKQ"/>
+                <outlet property="secondtag" destination="0GT-pF-gTI" id="ad7-cO-SAs"/>
+                <outlet property="seond" destination="jcY-KI-UjU" id="Y2U-JH-eXy"/>
+                <outlet property="third" destination="XV2-xl-XgJ" id="S45-OK-TIp"/>
+                <outlet property="thirdtag" destination="Mpr-3F-6KF" id="a4r-Lg-e09"/>
+            </connections>
             <point key="canvasLocation" x="25" y="169"/>
         </tableViewCell>
     </objects>

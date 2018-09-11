@@ -7,9 +7,14 @@
 //
 
 #import "BaoMingViewController.h"
+#import <SVProgressHUD.h>
 
 @interface BaoMingViewController ()
 @property (weak, nonatomic) IBOutlet UIButton *baimingButton;
+@property (weak, nonatomic) IBOutlet UITextField *dianhua;
+@property (weak, nonatomic) IBOutlet UITextField *name;
+@property (weak, nonatomic) IBOutlet UITextField *xueli;
+@property (weak, nonatomic) IBOutlet UITextField *liuyan;
 
 @end
 
@@ -29,6 +34,19 @@
 }
 - (IBAction)baoming:(id)sender {
     
+    if (_dianhua.text.length < 11) {
+        [SVProgressHUD showErrorWithStatus:@"请输入电话"];
+        return;
+    }
+    if (_name.text.length < 2) {
+        [SVProgressHUD showErrorWithStatus:@"请输入名字"];
+        return;
+    }
+    if (_xueli.text.length < 2) {
+        [SVProgressHUD showErrorWithStatus:@"请输入学历"];
+        return;
+    }
+    [SVProgressHUD showSuccessWithStatus:@"报名成功"];
 }
 
 /*

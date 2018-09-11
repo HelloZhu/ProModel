@@ -1,0 +1,3986 @@
+{
+    "success": true,
+    "code": 4000,
+    "msg": "成功",
+    "data": {
+        "pageNum": 1,
+        "pageSize": 20,
+        "totalCount": 34,
+        "results": [
+            {
+                "partJobId": 241290,
+                "title": "餐厅公众号等宣传平台维护",
+                "clearingForm": {
+                    "key": "0",
+                    "value": "其他"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "至19年寒假前",
+                "salary": "20元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 7213,
+                "brandName": "北京翠华盛宴餐饮有限公司工作室",
+                "companyLogo": "",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241847,
+                "title": "市场地推人员",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "深圳市南山文体中心",
+                "jobDate": "每周至少2-3天",
+                "salary": "100元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "9.85km",
+                "objectType": 1,
+                "hotScore": 157,
+                "brandName": "深圳贝尔创意科教有限公司工作室",
+                "companyLogo": "",
+                "priority": "286",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241816,
+                "title": "电商美工设计",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "南油第二工业区",
+                "jobDate": "每周不少于20小时",
+                "salary": "20元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "11.19km",
+                "objectType": 1,
+                "hotScore": 85,
+                "brandName": "王瀛洲工作室",
+                "companyLogo": "",
+                "priority": "143",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241913,
+                "title": "日结传单派发",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "高新园(地铁站)",
+                "jobDate": "任意一天都可以",
+                "salary": "30元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "7.37km",
+                "objectType": 1,
+                "hotScore": 46,
+                "brandName": "刘福建工作室",
+                "companyLogo": "",
+                "priority": "91",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 242030,
+                "title": "深圳公办学校科技兼职教师",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "南山区",
+                "jobDate": "工作日其中一天下午",
+                "salary": "200元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "9.85km",
+                "objectType": 1,
+                "hotScore": 263,
+                "brandName": "深圳市火柴科教服务有限公司工作室",
+                "companyLogo": "",
+                "priority": "77",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 239316,
+                "title": "富士康大量招聘临时普工22-29",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "深圳市龙华公寓",
+                "jobDate": "每周不少于20小时",
+                "salary": "22元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "12.33km",
+                "objectType": 1,
+                "hotScore": 438,
+                "brandName": "星辰人力资源有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1536048010022_199.png-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 238741,
+                "title": "招会议工作人员",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "科兴科学园会议中心",
+                "jobDate": "9月13日 (共1天)",
+                "salary": "150元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "8.40km",
+                "objectType": 1,
+                "hotScore": 812,
+                "brandName": "科能广告",
+                "companyLogo": "https://qiniu-image.qtshe.com/1493098144329_805.jpg-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 215907,
+                "title": "美团外卖送餐员",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "南山区",
+                "jobDate": "长期有效",
+                "salary": "150元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "9.10km",
+                "objectType": 1,
+                "hotScore": 2813,
+                "brandName": "同达企业管理",
+                "companyLogo": "https://qiniu-image.qtshe.com/1515397069235_894.png-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 230802,
+                "title": "招深圳职业生涯测评报告推广员",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "深圳市",
+                "jobDate": "根据学生空余时间安排",
+                "salary": "180元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "6.24km",
+                "objectType": 1,
+                "hotScore": 1062,
+                "brandName": "金灯台咨询",
+                "companyLogo": "https://qiniu-image.qtshe.com/1524798003532_816.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 215905,
+                "title": "美团外卖送餐员",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "白石洲",
+                "jobDate": "长期有效",
+                "salary": "150元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "5.33km",
+                "objectType": 1,
+                "hotScore": 2800,
+                "brandName": "同达企业管理",
+                "companyLogo": "https://qiniu-image.qtshe.com/1515397069235_894.png-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235245,
+                "title": "深圳深业上城Zara兼职导购",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "深业上城",
+                "jobDate": "6个月",
+                "salary": "22元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "5.65km",
+                "objectType": 1,
+                "hotScore": 991,
+                "brandName": "飒拉商业（上海）有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1525253155937_208.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 234937,
+                "title": "猎海科技招兼职文案编辑",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "200元/其他",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 30286,
+                "brandName": "猎海科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1477126754414_11.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237008,
+                "title": "招聘兼职辅导老师（可在校生）",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "南华村",
+                "jobDate": "周一至周五",
+                "salary": "500元/周",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "6.75km",
+                "objectType": 1,
+                "hotScore": 900,
+                "brandName": "星佳教育",
+                "companyLogo": "https://qiniu-image.qtshe.com/1519268180645_109.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235411,
+                "title": "爱贝诚招兼职派发，薪酬高",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "爱贝国际少儿英语",
+                "jobDate": "9月10月。",
+                "salary": "120元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "16.98km",
+                "objectType": 1,
+                "hotScore": 803,
+                "brandName": "深圳市碧海教育咨询有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535527412877_168.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 232868,
+                "title": "招代理，牛x的图片搬运工",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限时间",
+                "salary": "200元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 13556,
+                "brandName": "刘金辉",
+                "companyLogo": "https://qiniu-image.qtshe.com/1520590156554_997.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 234246,
+                "title": "作业辅导老师",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "新安湖社区居委会",
+                "jobDate": "根据学生空余时间安排",
+                "salary": "100元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "12.24km",
+                "objectType": 1,
+                "hotScore": 768,
+                "brandName": "博与儒文化",
+                "companyLogo": "https://qiniu-image.qtshe.com/1511944553175_2140.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 239888,
+                "title": "派单人员",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "万佳广场",
+                "jobDate": "9月6日 ~ 9月23日 (共2天)",
+                "salary": "25元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "7.68km",
+                "objectType": 1,
+                "hotScore": 691,
+                "brandName": "深圳市彩色鹿文化艺术有限公司工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/1536217811858_178.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 233855,
+                "title": "人事专员/助理",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "罗湖区",
+                "jobDate": "可以在公司实习",
+                "salary": "2100元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "11.65km",
+                "objectType": 1,
+                "hotScore": 707,
+                "brandName": "缤纷文化发展",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 234248,
+                "title": "招补习老师",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "新安湖花园(前进一路)",
+                "jobDate": "根据学生空余时间安排",
+                "salary": "100元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "12.37km",
+                "objectType": 1,
+                "hotScore": 1485,
+                "brandName": "博与儒文化",
+                "companyLogo": "https://qiniu-image.qtshe.com/1511944553175_2140.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 240057,
+                "title": "【在家可做】诚聘一对一视频美女主播",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "300元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1497,
+                "brandName": "沐风网络",
+                "companyLogo": "https://qiniu-image.qtshe.com/1531386737006_855.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235241,
+                "title": "深圳罗湖Zara兼职导购",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "ZARA(金光华广场)",
+                "jobDate": "6个月",
+                "salary": "22元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "10.40km",
+                "objectType": 1,
+                "hotScore": 676,
+                "brandName": "飒拉商业（上海）有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1525253155937_208.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 238578,
+                "title": "派单拉访",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "深圳市脑维思教育科技有限公司",
+                "jobDate": "9月6日 ~ 9月30日 (共2天)",
+                "salary": "20元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "12.23km",
+                "objectType": 1,
+                "hotScore": 786,
+                "brandName": "深圳市脑维思教育科技有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235760,
+                "title": "安柏家居招聘长期 周末促销",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "麦子工坊",
+                "jobDate": "周末",
+                "salary": "130元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "3.73km",
+                "objectType": 1,
+                "hotScore": 479,
+                "brandName": "星光智慧",
+                "companyLogo": "https://qiniu-image.qtshe.com/1496911377601_944.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237725,
+                "title": "富士康招正式工临时工28/H",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "富士康科技集团-南大门",
+                "jobDate": "任意一天都可以",
+                "salary": "28元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "12.47km",
+                "objectType": 1,
+                "hotScore": 144,
+                "brandName": "兴荣达人力资源有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 239913,
+                "title": "篮球，羽毛球，足球。周末兼职教练",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "周末或节假日",
+                "salary": "200元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 163,
+                "brandName": "强优体育",
+                "companyLogo": "https://qiniu-image.qtshe.com/1536289176668_394.jpg-100",
+                "priority": "92",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235849,
+                "title": "时尚潮流，微信推广",
+                "clearingForm": {
+                    "key": "0",
+                    "value": "其他"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "50元/次",
+                "jobPattern": {
+                    "key": "2",
+                    "value": "急招"
+                },
+                "objectType": 1,
+                "hotScore": 44694,
+                "brandName": "程鸿超工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_logo.png-100",
+                "priority": "1506",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 242152,
+                "title": "主播，底薪高达5000！有梦想你就来",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 79,
+                "brandName": "刘姗工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/1536586626952_818.jpg-100",
+                "priority": "900",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 242140,
+                "title": "才艺主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "300元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 10,
+                "brandName": "瑷晨文化传播",
+                "companyLogo": "https://qiniu-image.qtshe.com/1524212651138_747.jpg-100",
+                "priority": "300",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 223453,
+                "title": "诚招潮鞋运动鞋代理",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "200元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 284917,
+                "brandName": "埭头加斌鞋服店",
+                "companyLogo": "https://qiniu-image.qtshe.com/1533568913113_682.png-100",
+                "priority": "215",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 242138,
+                "title": "城市介绍报告",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "9月11日 ~ 9月12日 (共2天)",
+                "salary": "300元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 286,
+                "brandName": "缪志望工作室",
+                "companyLogo": "",
+                "priority": "100",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241475,
+                "title": "招网络主播，只限女生",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地址",
+                "jobDate": "时间自由安排",
+                "salary": "25元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1472,
+                "brandName": "人云天成科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1500355476882_199.jpg-100",
+                "priority": "59",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241845,
+                "title": "招聘优质网络女主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "上六休一",
+                "salary": "2000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 331,
+                "brandName": "星皓文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1525422785800_541.png-100",
+                "priority": "34",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237321,
+                "title": "招抖音高颜值性感美女主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 704,
+                "brandName": "提米文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1522247771398_123.jpg-100",
+                "priority": "34",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 242008,
+                "title": "线上手机主播",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期招募",
+                "salary": "1000元/周",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 163,
+                "brandName": "上海馥永文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "32",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241942,
+                "title": "招聘主播 保底3000",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "双方协商",
+                "salary": "3000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 336,
+                "brandName": "星秀文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1532402435293_353.jpg-100",
+                "priority": "32",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 238229,
+                "title": "在线兼职钢琴教师",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "时间灵活",
+                "salary": "100元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 3690,
+                "brandName": "小叶子科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1515992786583_828.jpg-100",
+                "priority": "23",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237035,
+                "title": "潮牌运动鞋服厂家直招代理",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "80元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 9310,
+                "brandName": "深圳市龙华新区淼鑫猪肚鸡火锅店",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "20",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241855,
+                "title": "户外音乐主播招募",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期有效",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 388,
+                "brandName": "虾仁文化传播",
+                "companyLogo": "https://qiniu-image.qtshe.com/1530177713829_600.jpg-100",
+                "priority": "20",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241856,
+                "title": "户外主播招募",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期有效",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 425,
+                "brandName": "虾仁文化传播",
+                "companyLogo": "https://qiniu-image.qtshe.com/1530177713829_600.jpg-100",
+                "priority": "19",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 239456,
+                "title": "游戏代玩，手机网赚兼职 随时可做",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "100元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 40968,
+                "brandName": "南京市浦口区天合源休闲健身中心",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "19",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 240818,
+                "title": "手机任务，在家随时可做",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "12元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 23662,
+                "brandName": "昆明上阳商贸有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1531221222622_586.jpg-100",
+                "priority": "14",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 242020,
+                "title": "招白天直播主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "三个月以上",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 367,
+                "brandName": "斯辰国际传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1504072481629_425.jpg-100",
+                "priority": "13",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 240520,
+                "title": "招聘手机线上主播，保底3000",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 497,
+                "brandName": "滕州市致臻文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1534216434102_626.png-100",
+                "priority": "12",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 240777,
+                "title": "招聘潮鞋代理",
+                "clearingForm": {
+                    "key": "0",
+                    "value": "其他"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期有限",
+                "salary": "150元/其他",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 7179,
+                "brandName": "林炳生工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_logo.png-100",
+                "priority": "11",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 221453,
+                "title": "招潮鞋代理",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "50元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 194857,
+                "brandName": "莆智商贸",
+                "companyLogo": "https://qiniu-image.qtshe.com/1520832468588_608.png-100",
+                "priority": "11",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 233212,
+                "title": "招网络主播",
+                "clearingForm": {
+                    "key": "0",
+                    "value": "其他"
+                },
+                "addressDetail": "深圳市龙岗区坂田街道南坑第一工业区",
+                "jobDate": "任意一天都可以",
+                "salary": "200元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "8.29km",
+                "objectType": 1,
+                "hotScore": 427,
+                "brandName": "深圳市亿鑫隆网络传媒有限公司工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 234960,
+                "title": "日本料理服务生",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "渡来割烹",
+                "jobDate": "每周至少2-3天",
+                "salary": "25元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "9.42km",
+                "objectType": 1,
+                "hotScore": 1389,
+                "brandName": "深圳市塘主餐饮管理有限公司工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 234187,
+                "title": "中国移动免费送卡",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "石龙仔新村三区",
+                "jobDate": "任意一天都可以",
+                "salary": "10元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "18.24km",
+                "objectType": 1,
+                "hotScore": 1212,
+                "brandName": "深圳市宝安区石岩彬弟手机配件店",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535354275686_82.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235233,
+                "title": "深圳福田Zara兼职导购",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "中心城",
+                "jobDate": "6个月",
+                "salary": "22元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "4.31km",
+                "objectType": 1,
+                "hotScore": 666,
+                "brandName": "飒拉商业（上海）有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1525253155937_208.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 236521,
+                "title": "深圳促销员",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "盒马鲜生(南山水湾1979店)",
+                "jobDate": "9月19日 ~ 9月30日 (共2天)",
+                "salary": "200元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "12.63km",
+                "objectType": 1,
+                "hotScore": 501,
+                "brandName": "方家铺子",
+                "companyLogo": "https://qiniu-image.qtshe.com/1516928546051_991.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 239145,
+                "title": "校招项目组实习生",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "联想大厦",
+                "jobDate": "三个月及以上",
+                "salary": "120元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "7.30km",
+                "objectType": 1,
+                "hotScore": 130,
+                "brandName": "北京网聘咨询有限公司深圳分公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1536118463658_634.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237626,
+                "title": "美国彩虹堡招地推兼职",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "鸿荣源·尚都",
+                "jobDate": "09月08日～10月30日",
+                "salary": "130元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "14.37km",
+                "objectType": 1,
+                "hotScore": 200,
+                "brandName": "深圳市悦思教育文化传播有限公司工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535880808554_48.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 228557,
+                "title": "深圳富士康手机厂普工6千",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "富士康科技集团龙华招募中心",
+                "jobDate": "截止到2018底",
+                "salary": "2300元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "12.31km",
+                "objectType": 1,
+                "hotScore": 217,
+                "brandName": "谦满网络科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 214927,
+                "title": "BD市场推广",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "福田区",
+                "jobDate": "短期、长期兼职",
+                "salary": "100元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "4.27km",
+                "objectType": 1,
+                "hotScore": 2724,
+                "brandName": "嗖嗖快跑科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237854,
+                "title": "连锁教育行业市场推广",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "京基·百纳广场(白石路)",
+                "jobDate": "周三至周五或周末",
+                "salary": "120元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "5.19km",
+                "objectType": 1,
+                "hotScore": 367,
+                "brandName": "乐佰科（深圳）教育有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535939117217_477.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235585,
+                "title": "中航中心盖页码员",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "中航中心",
+                "jobDate": "8月29日 ~ 9月20日 (共2天)",
+                "salary": "150元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "5.85km",
+                "objectType": 1,
+                "hotScore": 3884,
+                "brandName": "元态档案服务",
+                "companyLogo": "https://qiniu-image.qtshe.com/1501049366098_74.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 238148,
+                "title": "全脑教育学习顾问，派单",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "洪浪北(地铁站)",
+                "jobDate": "可协商具体日期",
+                "salary": "3000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "11.77km",
+                "objectType": 1,
+                "hotScore": 179,
+                "brandName": "深圳市脑维思教育科技有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 233827,
+                "title": "线下推广人员/提成/下午",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "宝安中心区",
+                "jobDate": "长期",
+                "salary": "50元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "13.72km",
+                "objectType": 1,
+                "hotScore": 422,
+                "brandName": "深圳市格兰莫科技有限公司工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535342030743_389.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237360,
+                "title": "美术教育机构招销售",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "碧海富通城3期",
+                "jobDate": "每周至少2-3天",
+                "salary": "80元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "17.52km",
+                "objectType": 1,
+                "hotScore": 318,
+                "brandName": "深圳美苑教育科技有限公司工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 242150,
+                "title": "校园代理推广无任何费用",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "三个月以上",
+                "salary": "200元/周",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 478,
+                "brandName": "一起玩信息科技（深圳）有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/qiniu-100",
+                "priority": "2000",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235849,
+                "title": "时尚潮流，微信推广",
+                "clearingForm": {
+                    "key": "0",
+                    "value": "其他"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "50元/次",
+                "jobPattern": {
+                    "key": "2",
+                    "value": "急招"
+                },
+                "objectType": 1,
+                "hotScore": 44694,
+                "brandName": "程鸿超工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_logo.png-100",
+                "priority": "1506",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241167,
+                "title": "在线钢琴陪练，1对1老师",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期兼职",
+                "salary": "25元/次",
+                "jobPattern": {
+                    "key": "2",
+                    "value": "急招"
+                },
+                "objectType": 1,
+                "hotScore": 8113,
+                "brandName": "尚艺教育",
+                "companyLogo": "https://qiniu-image.qtshe.com/1496913897957_507.jpg-100",
+                "priority": "1501",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 242152,
+                "title": "主播，底薪高达5000！有梦想你就来",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 79,
+                "brandName": "刘姗工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/1536586626952_818.jpg-100",
+                "priority": "900",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241837,
+                "title": "农夫山泉急招促销督导",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "九月十六",
+                "salary": "180元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 14,
+                "brandName": "农夫山泉",
+                "companyLogo": "https://qiniu-image.qtshe.com/1497600571539_8798.jpg-100",
+                "priority": "333",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 242140,
+                "title": "才艺主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "300元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 10,
+                "brandName": "瑷晨文化传播",
+                "companyLogo": "https://qiniu-image.qtshe.com/1524212651138_747.jpg-100",
+                "priority": "300",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 223453,
+                "title": "诚招潮鞋运动鞋代理",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "200元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 284917,
+                "brandName": "埭头加斌鞋服店",
+                "companyLogo": "https://qiniu-image.qtshe.com/1533568913113_682.png-100",
+                "priority": "215",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 242138,
+                "title": "城市介绍报告",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "9月11日 ~ 9月12日 (共2天)",
+                "salary": "300元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 286,
+                "brandName": "缪志望工作室",
+                "companyLogo": "",
+                "priority": "100",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 239913,
+                "title": "篮球，羽毛球，足球。周末兼职教练",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "周末或节假日",
+                "salary": "200元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 163,
+                "brandName": "强优体育工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/1536289176668_394.jpg-100",
+                "priority": "92",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241475,
+                "title": "招网络主播，只限女生",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地址",
+                "jobDate": "时间自由安排",
+                "salary": "25元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1472,
+                "brandName": "人云天成科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1500355476882_199.jpg-100",
+                "priority": "59",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241845,
+                "title": "招聘优质网络女主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "上六休一",
+                "salary": "2000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 331,
+                "brandName": "星皓文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1525422785800_541.png-100",
+                "priority": "34",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237321,
+                "title": "招抖音高颜值性感美女主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 704,
+                "brandName": "提米文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1522247771398_123.jpg-100",
+                "priority": "34",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 242050,
+                "title": "代理，免费模式引爆校园创业激情",
+                "clearingForm": {
+                    "key": "0",
+                    "value": "其他"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "学习与创业两不误",
+                "salary": "0元/其他",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 2355,
+                "brandName": "云南未欲已中医文化传播合伙企业（有限合伙）",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "33",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 242008,
+                "title": "线上手机主播",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期招募",
+                "salary": "1000元/周",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 163,
+                "brandName": "上海馥永文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "32",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241942,
+                "title": "招聘主播 保底3000",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "双方协商",
+                "salary": "3000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 336,
+                "brandName": "星秀文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1532402435293_353.jpg-100",
+                "priority": "32",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 238229,
+                "title": "在线兼职钢琴教师",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "时间灵活",
+                "salary": "100元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 3690,
+                "brandName": "小叶子科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1515992786583_828.jpg-100",
+                "priority": "23",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237035,
+                "title": "潮牌运动鞋服厂家直招代理",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "80元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 9310,
+                "brandName": "深圳市龙华新区淼鑫猪肚鸡火锅店",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "20",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241855,
+                "title": "户外音乐主播招募",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期有效",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 388,
+                "brandName": "虾仁文化传播",
+                "companyLogo": "https://qiniu-image.qtshe.com/1530177713829_600.jpg-100",
+                "priority": "20",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241856,
+                "title": "户外主播招募",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期有效",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 425,
+                "brandName": "虾仁文化传播",
+                "companyLogo": "https://qiniu-image.qtshe.com/1530177713829_600.jpg-100",
+                "priority": "19",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 239456,
+                "title": "游戏代玩，手机网赚兼职 随时可做",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "100元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 40968,
+                "brandName": "南京市浦口区天合源休闲健身中心",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "19",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 231573,
+                "title": "爆款流微商代理",
+                "clearingForm": {
+                    "key": "0",
+                    "value": "其他"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "4000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 20027,
+                "brandName": "杨浩工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_logo.png-100",
+                "priority": "6",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237934,
+                "title": "潮鞋全国招代理",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "300元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 2267,
+                "brandName": "浣浣星贸易",
+                "companyLogo": "https://qiniu-image.qtshe.com/1511502215748_144.jpg-100",
+                "priority": "6",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 229814,
+                "title": "招减脂饼干校园代理",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期有效",
+                "salary": "200元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 27081,
+                "brandName": "天津市南开区悠悠快餐店",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "6",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 227813,
+                "title": "神首集团招代理",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "根据学生空余时间安排",
+                "salary": "15元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 32410,
+                "brandName": "李莹娜工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_logo.png-100",
+                "priority": "5",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 230603,
+                "title": "招收优质游戏陪玩（限女）",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "全职兼职都可以",
+                "salary": "10000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 83398,
+                "brandName": "什邡耀诚科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1534500913096_688.jpg-100",
+                "priority": "5",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 225212,
+                "title": "高薪1Ｖ1视频聊天主播/直播主播/日结快",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "200元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 7172,
+                "brandName": "湖南火豚新娱网络信息技术有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1528601183092_608.jpg-100",
+                "priority": "5",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 240038,
+                "title": "致臻传媒3000保底招主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1067,
+                "brandName": "滕州市致臻文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1534216434102_626.png-100",
+                "priority": "5",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241687,
+                "title": "寒假工代理",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "寒假期间勤工俭学",
+                "salary": "600元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 7432,
+                "brandName": "苏州前源景企业管理有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1524650653949_906.jpg-100",
+                "priority": "5",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241454,
+                "title": "扫二维码加好友",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "150元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 5073,
+                "brandName": "邵杭工作室",
+                "companyLogo": "",
+                "priority": "5",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 231513,
+                "title": "招社群管理运营",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期",
+                "salary": "12元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 55495,
+                "brandName": "昆明上阳商贸有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1531221222622_586.jpg-100",
+                "priority": "5",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 236954,
+                "title": "潮流短视频直播达人",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "时间自由安排",
+                "salary": "4000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 3512,
+                "brandName": "科恩达科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "4",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 229851,
+                "title": "短视频达人",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期",
+                "salary": "4500元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 41160,
+                "brandName": "逐梦工场",
+                "companyLogo": "https://qiniu-image.qtshe.com/1533632637661_358.jpg-100",
+                "priority": "4",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235847,
+                "title": "药妆护肤品代理",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期兼职",
+                "salary": "1000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 3269,
+                "brandName": "妆云生物科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1527826767812_974.jpg-100",
+                "priority": "4",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 226832,
+                "title": "招主播（保底5K/提成日结）",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "全国长期大量招聘",
+                "salary": "2000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 18574,
+                "brandName": "杭州润风科技有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "4",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 230784,
+                "title": "潮流鞋包一手货源招代理",
+                "clearingForm": {
+                    "key": "0",
+                    "value": "其他"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "300元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 15315,
+                "brandName": "杭州昶炜贸易",
+                "companyLogo": "https://qiniu-image.qtshe.com/1527903741172_865.jpg-100",
+                "priority": "4",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 175807,
+                "title": "超高底薪招主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意一天都可以",
+                "salary": "7000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 15583,
+                "brandName": "诺毅文化传播",
+                "companyLogo": "https://qiniu-image.qtshe.com/1504060833778_195.jpg-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235715,
+                "title": "诚招护肤品代理 薪资合理",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "8.31",
+                "salary": "800元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 3792,
+                "brandName": "妆云生物科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1527826767812_974.jpg-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 226473,
+                "title": "明星电商招募校园代理合伙人，非在校生勿投",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "根据学生空余时间安排",
+                "salary": "2000元/其他",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 5796,
+                "brandName": "星选科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1523434760000_65.png-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 236753,
+                "title": "酷狗繁星主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期兼职优先",
+                "salary": "150元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 2713,
+                "brandName": "无锡糖果文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 222644,
+                "title": "招女主播，待遇好",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "200元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 32620,
+                "brandName": "谢京工作室",
+                "companyLogo": "",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 216747,
+                "title": "炫笙传媒高薪招主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "8000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 4226,
+                "brandName": "炫笙文化传播",
+                "companyLogo": "https://qiniu-image.qtshe.com/1500286750808_646.jpg-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 227983,
+                "title": "高薪才艺主播日结",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "自由有空随时地",
+                "salary": "200元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 4780,
+                "brandName": "刘潭锋工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/buslogo.png-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 221802,
+                "title": "大学生班服代理 非诚勿扰",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期可兼职",
+                "salary": "800元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 50455,
+                "brandName": "邱阳浩工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_logo.png-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 221831,
+                "title": "招线上产品推广代理",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期兼职",
+                "salary": "200元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 9360,
+                "brandName": "李莹娜工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_logo.png-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 219707,
+                "title": "招主播艺人，保底5000",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "300元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 4284,
+                "brandName": "甪鼎富文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1519995812913_813.jpg-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 238315,
+                "title": "高薪招游戏女主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期有效",
+                "salary": "2000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 3151,
+                "brandName": "广州斯嘉影视传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535975165683_720.jpg-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 240425,
+                "title": "兼职主播，年龄18以上",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "每周不少于20小时",
+                "salary": "50元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1810,
+                "brandName": "稚惜儿贸易",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 234798,
+                "title": "嗨团团购招代理",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "根据学生空余时间安排",
+                "salary": "100元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 6793,
+                "brandName": "四方互联科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1534225041802_400.png-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 236616,
+                "title": "招淘宝号租用兼职【需备淘宝号】",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "30元/周",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 13340,
+                "brandName": "八方网络科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1517566751889_204.jpg-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 240681,
+                "title": "招兼职女主播，可礼物扶持",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "每周不少于20小时",
+                "salary": "50元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1063,
+                "brandName": "德州领潮电子商务有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 236113,
+                "title": "网络主播艺人",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "3000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1128,
+                "brandName": "青岛斐创文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535426815605_436.jpg-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 223011,
+                "title": "全网招募网络主播",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 19445,
+                "brandName": "创娱文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1531707774056_43.png-100",
+                "priority": "3",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 228584,
+                "title": "招聘高颜值性感女主播",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "根据学生空余时间安排",
+                "salary": "10000元/其他",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1933,
+                "brandName": "左岸影视传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1501684807203_645.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 232118,
+                "title": "主播中介",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "根据学生空余时间安排",
+                "salary": "500元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 265,
+                "brandName": "佳艺文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 233433,
+                "title": "招网络主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "3000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 934,
+                "brandName": "瑷晨文化传播",
+                "companyLogo": "https://qiniu-image.qtshe.com/1524212651138_747.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 234978,
+                "title": "网络主播免费培训",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "每周至少直播5天",
+                "salary": "4000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1866,
+                "brandName": "哇塞网络传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 236512,
+                "title": "全国招募线上女主播",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "无期限",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 2259,
+                "brandName": "武汉天驷文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535603418755_33.png-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 238317,
+                "title": "主播经纪人管理",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期可做",
+                "salary": "200元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 5749,
+                "brandName": "广州斯嘉影视传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535975165683_720.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 240359,
+                "title": "外汇经济人",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意一天都可以",
+                "salary": "600元/其他",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 4793,
+                "brandName": "橘伴网络科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1528880755613_515.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 240057,
+                "title": "【在家可做】诚聘一对一视频美女主播",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "300元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1506,
+                "brandName": "沐风网络",
+                "companyLogo": "https://qiniu-image.qtshe.com/1531386737006_855.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 240288,
+                "title": "全国招募抖音线上女主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 2072,
+                "brandName": "提米文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1522247771398_123.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 240749,
+                "title": "儿童硬笔书法视频课程推广",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期兼职",
+                "salary": "45元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 22828,
+                "brandName": "尚艺教育",
+                "companyLogo": "https://qiniu-image.qtshe.com/1496913897957_507.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 238310,
+                "title": "高薪招线上电脑主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期有效",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1108,
+                "brandName": "广州斯嘉影视传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535975165683_720.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 233353,
+                "title": "手机主播招聘，非诚勿扰",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期",
+                "salary": "7000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1414,
+                "brandName": "起缘文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1523696149479_850.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 236815,
+                "title": "斗鱼二次元板块主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "2000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 3634,
+                "brandName": "贵州辰明明文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1512961140803_490.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 238377,
+                "title": "招原创文章写作，可在家",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "每周不少于20小时",
+                "salary": "2元/其他",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 32458,
+                "brandName": "学安工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/1455955564153_472.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237847,
+                "title": "全职一对一主播，绿色平台，年满20",
+                "clearingForm": {
+                    "key": "0",
+                    "value": "其他"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "根据学生空余时间安排",
+                "salary": "50元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 2467,
+                "brandName": "稚惜儿贸易",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235640,
+                "title": "招收陌陌.火山小视频颜值主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 2596,
+                "brandName": "亿网传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1534760562344_341.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 238200,
+                "title": "贝店店主、分享商城、乐器代理招募中",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "100元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 4440,
+                "brandName": "杜金锁工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_logo.png-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 238713,
+                "title": "招手机直播红人！线上主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意一天都可以",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 8448,
+                "brandName": "远方文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1501056805327_281.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 240189,
+                "title": "全国招一对一视频美女主播，高薪绿色平台",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "100元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 3515,
+                "brandName": "德州领潮电子商务有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 236818,
+                "title": "斗鱼音乐板块主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "2000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1917,
+                "brandName": "贵州辰明明文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1512961140803_490.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 239964,
+                "title": "招收主播",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "根据学生空余时间安排",
+                "salary": "4000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1011,
+                "brandName": "汇星文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1515805274649_382.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 238213,
+                "title": "娱加高薪招募主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 2551,
+                "brandName": "娱加娱乐",
+                "companyLogo": "https://qiniu-image.qtshe.com/1504579073072_280.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 223772,
+                "title": "招主播，你的高颜值，不该被辜负",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期兼职非暑假工",
+                "salary": "15000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 4300,
+                "brandName": "柒惜文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1533582044886_600.jpg-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 231247,
+                "title": "普工，年龄不限，有上进心，工作努力",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "在深圳龙岗长途汽车客运站附近",
+                "jobDate": "任意一天都可以",
+                "salary": "18元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 955,
+                "brandName": "深圳市泉昌劳务派遣有限公司工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/qiniu-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 228995,
+                "title": "校园推广大使",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限时间长期兼职",
+                "salary": "500元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 18785,
+                "brandName": "中才教育培训",
+                "companyLogo": "https://qiniu-image.qtshe.com/1533533645686_117.png-100",
+                "priority": "2",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237042,
+                "title": "月薪过万聘主播艺人",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限时间",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1231,
+                "brandName": "风源时代文化",
+                "companyLogo": "https://qiniu-image.qtshe.com/1521801071948_20.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 220892,
+                "title": "招上市平台网红主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "6000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 9980,
+                "brandName": "旭朗文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1522223206541_537.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235439,
+                "title": "高薪资网络主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "每天3-6小时",
+                "salary": "8000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1002,
+                "brandName": "西安轩之朵广告文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 236727,
+                "title": "招聘艺人主播全职兼职均可",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "可长期做",
+                "salary": "3000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1905,
+                "brandName": "青岛斐创文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535426815605_436.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237462,
+                "title": "招斗鱼炉石主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "0元/其他",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 2767,
+                "brandName": "贵州辰明明文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1512961140803_490.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 227472,
+                "title": "实习签约女艺人",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "根据学生空余时间安排",
+                "salary": "100元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 5328,
+                "brandName": "播仕网络科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 236444,
+                "title": "主播网络主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "根据学生空余时间安排",
+                "salary": "3000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 938,
+                "brandName": "青岛八时八分文化传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 234106,
+                "title": "才艺颜值主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意一天都可以",
+                "salary": "300元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 429,
+                "brandName": "深圳市亿鑫隆网络传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 225460,
+                "title": "腾讯now直播可以日结工资",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "每周不少于18个小时",
+                "salary": "2000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 8858,
+                "brandName": "雄二传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1509068830394_4803.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 218020,
+                "title": "校园合伙人",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "时间不限",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 53709,
+                "brandName": "南京一加一信息科技有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235372,
+                "title": "星瀚传媒招主播艺人",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "每天工作6小时",
+                "salary": "4000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 5401,
+                "brandName": "微风兰杜文化",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 232374,
+                "title": "招主播 小仙女们看过来~",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1592,
+                "brandName": "热度传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1519630833334_441.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 214857,
+                "title": "网络主播艺人",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "2018-8-1",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 2657,
+                "brandName": "蜜蜂计划文化",
+                "companyLogo": "https://qiniu-image.qtshe.com/1500643433417_206.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237651,
+                "title": "产品代理推广（无需押金）",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "50元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 4206,
+                "brandName": "上海梵骥信息科技有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535529793373_958.png-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 240740,
+                "title": "火山小视频招主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "根据学生空余时间安排",
+                "salary": "4000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1051,
+                "brandName": "风火轮传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1500447119043_102.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 238689,
+                "title": "抖音达人、主播招聘.",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "根据学生空余时间安排",
+                "salary": "3000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 452,
+                "brandName": "西安灵星互动文化传媒有限公司工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/1536046988926_555.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 236562,
+                "title": "好哥们互娱招网络主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "18元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 405,
+                "brandName": "好哥们网络",
+                "companyLogo": "https://qiniu-image.qtshe.com/1516590477247_785.png-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 233527,
+                "title": "美团智能支付招募合伙人",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "美团不倒长期有效",
+                "salary": "300元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 16471,
+                "brandName": "宋鹏工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/1522230409214_215.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 217370,
+                "title": "招聘博士写作人员",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限制",
+                "salary": "3000元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 7517,
+                "brandName": "文发信息服务",
+                "companyLogo": "https://qiniu-image.qtshe.com/1521455340058_293.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 217675,
+                "title": "医学论文写手；医学编辑",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期有效",
+                "salary": "5000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 4170,
+                "brandName": "成华区胡利云君商贸部",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235636,
+                "title": "小初英语老师",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "亿立方商场",
+                "jobDate": "工作时间可以协商",
+                "salary": "80元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "distance": "20.50km",
+                "objectType": 1,
+                "hotScore": 1036,
+                "brandName": "深圳有课教育科技有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535550727477_243.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235604,
+                "title": "嘉易文化招美女主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "70元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 373,
+                "brandName": "嘉易传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1504169368874_553.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 232300,
+                "title": "招高颜值才艺主播",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "弹性时间",
+                "salary": "4000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1289,
+                "brandName": "萌缘行文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1522300973632_607.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 235588,
+                "title": "招主播经纪人",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意一天都可以",
+                "salary": "1000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 4812,
+                "brandName": "远方文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1501056805327_281.jpg-100",
+                "priority": "1",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237055,
+                "title": "高薪招聘旅游卡代理销售",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "深圳市",
+                "jobDate": "时间自由成交为王",
+                "salary": "50元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 32,
+                "brandName": "深圳市福田区大未来贸易商行",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237547,
+                "title": "网络主播/电商主播艺人",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意一天都可以",
+                "salary": "2000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 24,
+                "brandName": "凡益科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1534215400581_612.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 233980,
+                "title": "酒店收银接待",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "深圳市龙岗区横岗街道四联路11号",
+                "jobDate": "24小时三班倒",
+                "salary": "3500元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 345,
+                "brandName": "深圳市泰莱酒店管理有限公司工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 228579,
+                "title": "福民地铁站酒店兼职服务员数名",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意一天都可以",
+                "salary": "15元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1917,
+                "brandName": "深圳市万福鑫人力资源有限公司",
+                "companyLogo": "",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237973,
+                "title": "市场推广实习生",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "一个月",
+                "salary": "100元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 28,
+                "brandName": "前海办办科技（深圳）有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535945910744_182.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 233428,
+                "title": "简单视频制作",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "每周至少2-3天",
+                "salary": "100元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 58996,
+                "brandName": "杰乐光电",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 219900,
+                "title": "网络运营",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限",
+                "salary": "0元/其他",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 71845,
+                "brandName": "星瀚鸣鸿科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1526629952870_211.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 228743,
+                "title": "手机淘宝拉新业务",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意一天都可以",
+                "salary": "300元/其他",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 36336,
+                "brandName": "道洲科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1508213844925_115.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 239329,
+                "title": "手机游戏配件校园代理推广",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "长期有效",
+                "salary": "50元/其他",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 2973,
+                "brandName": "上海幽翔文化传播有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1536128081898_422.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 241111,
+                "title": "招海外essay写作人才",
+                "clearingForm": {
+                    "key": "2",
+                    "value": "周结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "欢迎工作半年以上",
+                "salary": "3000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1872,
+                "brandName": "三度格致",
+                "companyLogo": "https://qiniu-image.qtshe.com/1476271597786_105.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 229841,
+                "title": "招酷狗、歪歪手机电脑主播",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "1000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1398,
+                "brandName": "潮绎娱乐传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1514187804551_479.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 222432,
+                "title": "网红推手招代理",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "200元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 14105,
+                "brandName": "朱仁华工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_logo.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 231320,
+                "title": "蛋壳公寓房屋推销员",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意一天都可以",
+                "salary": "0元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 3,
+                "brandName": "陈贞成工作室",
+                "companyLogo": "https://qiniu-image.qtshe.com/1534917298744_647.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 232621,
+                "title": "大学生线上社群运营职位",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "每周至少2-3天",
+                "salary": "100元/天",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 16369,
+                "brandName": "智者开黑网络",
+                "companyLogo": "https://qiniu-image.qtshe.com/1527305141326_787.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 232660,
+                "title": "平台直招主播，按小时收费",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "20元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 9999,
+                "brandName": "网鱼文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1531796702221_748.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 232689,
+                "title": "招线上线下全职兼职主播（高薪诚聘）",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "15元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 1760,
+                "brandName": "蕊儿文化传媒",
+                "companyLogo": "https://qiniu-image.qtshe.com/1522054307389_151.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 234224,
+                "title": "直招两小时以上视频主播可新人",
+                "clearingForm": {
+                    "key": "3",
+                    "value": "月结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "不限工作日期",
+                "salary": "4000元/月",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 7644,
+                "brandName": "广州星耀传媒有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/1535257736322_7.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 236025,
+                "title": "少儿舞蹈学习试听课拉访",
+                "clearingForm": {
+                    "key": "1",
+                    "value": "日结"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "任意一天都可以",
+                "salary": "30元/小时",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 6463,
+                "brandName": "上海媛绅童宝教育科技有限公司",
+                "companyLogo": "https://qiniu-image.qtshe.com/company_default_5.4.png-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            },
+            {
+                "partJobId": 237237,
+                "title": "校园班服定制负责人",
+                "clearingForm": {
+                    "key": "4",
+                    "value": "完工结算"
+                },
+                "addressDetail": "不限工作地点",
+                "jobDate": "根据学生空余时间安排",
+                "salary": "800元/次",
+                "jobPattern": {
+                    "key": "1",
+                    "value": "普通"
+                },
+                "objectType": 1,
+                "hotScore": 3666,
+                "brandName": "海克斯科技",
+                "companyLogo": "https://qiniu-image.qtshe.com/1527332957680_219.jpg-100",
+                "priority": "0",
+                "salaryType": 1,
+                "qingtuanbaoProctionUrl": "https://m.qtshe.com/activity/v1?activityMark=0aa2a3c8dc2c92e0a919425270811ec7"
+            }
+        ]
+    },
+    "extra": {}
+}

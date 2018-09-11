@@ -11,7 +11,7 @@
 #import "FirstViewController.h"
 #import "SecondViewController.h"
 #import "MyViewController.h"
-
+#import <SVProgressHUD.h>
 @interface AppDelegate ()
 
 @end
@@ -21,7 +21,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    
+    [SVProgressHUD setDefaultStyle:SVProgressHUDStyleDark];
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     self.window.backgroundColor = [UIColor whiteColor];
     FirstViewController *first = [[FirstViewController alloc] init];

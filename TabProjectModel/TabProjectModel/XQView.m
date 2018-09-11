@@ -18,4 +18,11 @@
 }
 */
 
+- (void)awakeFromNib
+{
+    [super awakeFromNib];
+    self.gongsiimage.layer.masksToBounds = YES;
+    self.gongsiimage.layer.cornerRadius = 30.0;
+}
+
 @end

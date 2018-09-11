@@ -9,5 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface JPTableViewCell : UITableViewCell
+@property (weak, nonatomic) IBOutlet UIImageView *bgimageView;
+@property (weak, nonatomic) IBOutlet UILabel *title;
+@property (weak, nonatomic) IBOutlet UILabel *subtitle;
 
 @end

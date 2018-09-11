@@ -10,9 +10,10 @@
 #import "DetailTableViewCell.h"
 #import "XQViewController.h"
 #import "SecondHeader.h"
+#import "JobCenter.h"
 
 @interface SecondViewController ()
-
+@property (nonatomic, strong) JobCenters *jobs;
 @end
 
 @implementation SecondViewController
@@ -52,6 +53,7 @@
     [self.tableView registerNib:[UINib nibWithNibName:@"DetailTableViewCell" bundle:[NSBundle mainBundle]] forCellReuseIdentifier:@"DetailTableViewCell"];
     SecondHeader *header = [[[NSBundle mainBundle] loadNibNamed:@"SecondHeader" owner:nil options:nil] firstObject];
     self.tableView.tableHeaderView = header;
+    [self createLocalJob];
 }
 
 - (void)didReceiveMemoryWarning {
@@ -66,18 +68,17 @@
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    return 30;
+    return self.jobs.results.count;
 }
 
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     
     DetailTableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"DetailTableViewCell"];
-    
-    cell.nameLabel.text = @"aaa";
-    cell.desc.text = @"bb";
-    cell.money.text = @"100";
-    
+    JobCenter *job = self.jobs.results[indexPath.row];
+    cell.nameLabel.text = job.title;
+    cell.desc.text = job.jobDate;
+    cell.money.text = job.salary;
     return cell;
 }
 
@@ -88,4 +89,22 @@
     xq.hidesBottomBarWhenPushed = YES;
     [self.navigationController pushViewController:xq animated:YES];
 }
+
+
+- (void)createLocalJob
+{
+    /** */
+    dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
+        NSString *path = [[NSBundle mainBundle] pathForResource:@"jobcenter" ofType:@"json"];
+        NSData *data = [NSData dataWithContentsOfFile:path];
+        NSDictionary *dict = [NSJSONSerialization JSONObjectWithData:data options:0 error:nil];
+        self.jobs = [JobCenters yy_modelWithDictionary:dict[@"data"]];
+        
+        dispatch_async(dispatch_get_main_queue(), ^{
+            [self.tableView reloadData];
+        });
+    });
+    
+}
+
 @end
