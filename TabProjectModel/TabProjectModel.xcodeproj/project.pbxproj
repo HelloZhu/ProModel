@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		201DFEF6213CDC8E00F0201B /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 201DFEF4213CDC8E00F0201B /* LoginViewController.m */; };
+		201DFEF7213CDC8E00F0201B /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 201DFEF5213CDC8E00F0201B /* LoginViewController.xib */; };
+		201DFEFA213CDCB600F0201B /* MyHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 201DFEF9213CDCB600F0201B /* MyHeader.m */; };
+		201DFEFC213CDCC300F0201B /* MyHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = 201DFEFB213CDCC300F0201B /* MyHeader.xib */; };
 		20ACD558213B8DAB00B5AFDA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD557213B8DAB00B5AFDA /* AppDelegate.m */; };
 		20ACD55B213B8DAB00B5AFDA /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD55A213B8DAB00B5AFDA /* FirstViewController.m */; };
 		20ACD55E213B8DAB00B5AFDA /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD55D213B8DAB00B5AFDA /* SecondViewController.m */; };
@@ -26,7 +30,6 @@
 		20ACD588213B8F3E00B5AFDA /* TabBarBg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD57F213B8F3E00B5AFDA /* TabBarBg@2x.png */; };
 		20ACD58B213B8F8E00B5AFDA /* UIImage+OriginalMode.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD589213B8F8D00B5AFDA /* UIImage+OriginalMode.m */; };
 		20ACD592213B93E200B5AFDA /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD590213B93E200B5AFDA /* MyViewController.m */; };
-		20ACD593213B93E200B5AFDA /* MyViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD591213B93E200B5AFDA /* MyViewController.xib */; };
 		20ACD59A213B986A00B5AFDA /* MainPageHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD599213B986A00B5AFDA /* MainPageHeader.m */; };
 		20ACD59C213B987900B5AFDA /* MainPageHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20ACD59B213B987900B5AFDA /* MainPageHeader.xib */; };
 		20ACD5A4213BB1E200B5AFDA /* DetailTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 20ACD5A2213BB1E200B5AFDA /* DetailTableViewCell.m */; };
@@ -50,6 +53,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		201DFEF3213CDC8E00F0201B /* LoginViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
+		201DFEF4213CDC8E00F0201B /* LoginViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+		201DFEF5213CDC8E00F0201B /* LoginViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoginViewController.xib; sourceTree = "<group>"; };
+		201DFEF8213CDCB600F0201B /* MyHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyHeader.h; sourceTree = "<group>"; };
+		201DFEF9213CDCB600F0201B /* MyHeader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyHeader.m; sourceTree = "<group>"; };
+		201DFEFB213CDCC300F0201B /* MyHeader.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyHeader.xib; sourceTree = "<group>"; };
 		20ACD553213B8DAB00B5AFDA /* TabProjectModel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabProjectModel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20ACD556213B8DAB00B5AFDA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		20ACD557213B8DAB00B5AFDA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -78,7 +87,6 @@
 		20ACD58C213B8FC600B5AFDA /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 		20ACD58F213B93E200B5AFDA /* MyViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyViewController.h; sourceTree = "<group>"; };
 		20ACD590213B93E200B5AFDA /* MyViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyViewController.m; sourceTree = "<group>"; };
-		20ACD591213B93E200B5AFDA /* MyViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyViewController.xib; sourceTree = "<group>"; };
 		20ACD598213B986900B5AFDA /* MainPageHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainPageHeader.h; sourceTree = "<group>"; };
 		20ACD599213B986A00B5AFDA /* MainPageHeader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainPageHeader.m; sourceTree = "<group>"; };
 		20ACD59B213B987900B5AFDA /* MainPageHeader.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainPageHeader.xib; sourceTree = "<group>"; };
@@ -152,6 +160,9 @@
 				20ACD570213B8E3300B5AFDA /* TabBarController.m */,
 				20ACD559213B8DAB00B5AFDA /* FirstViewController.h */,
 				20ACD55A213B8DAB00B5AFDA /* FirstViewController.m */,
+				201DFEF3213CDC8E00F0201B /* LoginViewController.h */,
+				201DFEF4213CDC8E00F0201B /* LoginViewController.m */,
+				201DFEF5213CDC8E00F0201B /* LoginViewController.xib */,
 				20ACD55C213B8DAB00B5AFDA /* SecondViewController.h */,
 				20ACD55D213B8DAB00B5AFDA /* SecondViewController.m */,
 				20ACD5C7213BDD4800B5AFDA /* SecondHeader.h */,
@@ -159,7 +170,9 @@
 				20ACD5CA213BDD6000B5AFDA /* SecondHeader.xib */,
 				20ACD58F213B93E200B5AFDA /* MyViewController.h */,
 				20ACD590213B93E200B5AFDA /* MyViewController.m */,
-				20ACD591213B93E200B5AFDA /* MyViewController.xib */,
+				201DFEF8213CDCB600F0201B /* MyHeader.h */,
+				201DFEF9213CDCB600F0201B /* MyHeader.m */,
+				201DFEFB213CDCC300F0201B /* MyHeader.xib */,
 				20ACD5B5213BC15F00B5AFDA /* ListTableViewController.h */,
 				20ACD5B6213BC15F00B5AFDA /* ListTableViewController.m */,
 				20ACD5B8213BC2F600B5AFDA /* XQViewController.h */,
@@ -291,9 +304,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				20ACD593213B93E200B5AFDA /* MyViewController.xib in Resources */,
 				20ACD581213B8F3E00B5AFDA /* tabbar_comment_selected@2x.png in Resources */,
 				20ACD5C6213BD84E00B5AFDA /* BaoMingViewController.xib in Resources */,
+				201DFEF7213CDC8E00F0201B /* LoginViewController.xib in Resources */,
 				20ACD582213B8F3E00B5AFDA /* tabbar_help@2x.png in Resources */,
 				20ACD5AA213BB44A00B5AFDA /* SectionHeader.xib in Resources */,
 				20ACD583213B8F3E00B5AFDA /* tabbar_help_selected@2x.png in Resources */,
@@ -306,6 +319,7 @@
 				20ACD566213B8DAD00B5AFDA /* LaunchScreen.storyboard in Resources */,
 				20ACD563213B8DAD00B5AFDA /* Assets.xcassets in Resources */,
 				20ACD587213B8F3E00B5AFDA /* tabbar_Me_selected@2x.png in Resources */,
+				201DFEFC213CDCC300F0201B /* MyHeader.xib in Resources */,
 				20ACD5C1213BC42500B5AFDA /* XQView.xib in Resources */,
 				20ACD561213B8DAB00B5AFDA /* Main.storyboard in Resources */,
 				20ACD5AF213BB83600B5AFDA /* QuweiTableViewCell.xib in Resources */,
@@ -368,6 +382,7 @@
 				20ACD55E213B8DAB00B5AFDA /* SecondViewController.m in Sources */,
 				20ACD558213B8DAB00B5AFDA /* AppDelegate.m in Sources */,
 				20ACD5AE213BB83600B5AFDA /* QuweiTableViewCell.m in Sources */,
+				201DFEFA213CDCB600F0201B /* MyHeader.m in Sources */,
 				20ACD5C9213BDD4800B5AFDA /* SecondHeader.m in Sources */,
 				20ACD571213B8E3300B5AFDA /* TabBarController.m in Sources */,
 				20ACD5A4213BB1E200B5AFDA /* DetailTableViewCell.m in Sources */,
@@ -376,6 +391,7 @@
 				20ACD55B213B8DAB00B5AFDA /* FirstViewController.m in Sources */,
 				20ACD58B213B8F8E00B5AFDA /* UIImage+OriginalMode.m in Sources */,
 				20ACD59A213B986A00B5AFDA /* MainPageHeader.m in Sources */,
+				201DFEF6213CDC8E00F0201B /* LoginViewController.m in Sources */,
 				20ACD592213B93E200B5AFDA /* MyViewController.m in Sources */,
 				20ACD5C5213BD84E00B5AFDA /* BaoMingViewController.m in Sources */,
 				20ACD5BF213BC41600B5AFDA /* XQView.m in Sources */,

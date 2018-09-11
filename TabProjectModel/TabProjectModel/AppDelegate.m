@@ -30,7 +30,7 @@
     SecondViewController *second = [[SecondViewController alloc] init];
     UINavigationController *secondNAV = [[UINavigationController alloc] initWithRootViewController:second];
     
-    MyViewController *my = [[MyViewController alloc] initWithNibName:@"MyViewController" bundle:[NSBundle mainBundle]];
+    MyViewController *my = [[MyViewController alloc] initWithStyle:UITableViewStyleGrouped];
     UINavigationController *myNAV = [[UINavigationController alloc] initWithRootViewController:my];
     
     TabBarController *tab = [[TabBarController alloc] init];
