@@ -16,37 +16,41 @@
             <rect key="frame" x="0.0" y="0.0" width="375" height="149"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
-                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YAK-ik-EcL">
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YAK-ik-EcL">
                     <rect key="frame" x="5" y="13" width="69" height="60"/>
                     <constraints>
                         <constraint firstAttribute="height" constant="60" id="Vya-xG-A76"/>
                     </constraints>
-                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
-                    <state key="normal" backgroundImage="s1">
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <state key="normal" title="市场推广" image="s1">
                         <color key="titleColor" red="0.16862745100000001" green="0.1019607843" blue="0.1019607843" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </state>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="S9l-Vl-0WW">
                     <rect key="frame" x="79" y="13.5" width="69" height="60"/>
-                    <state key="normal" image="s2">
+                    <fontDescription key="fontDescription" type="system" pointSize="8"/>
+                    <state key="normal" title="餐饮服务" image="s2">
                         <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </state>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SRy-h3-t4z">
                     <rect key="frame" x="153" y="13" width="69" height="60"/>
-                    <state key="normal" image="s3">
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <state key="normal" title="电源导购" image="s3">
                         <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </state>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uyf-Lb-eVF">
                     <rect key="frame" x="227" y="13" width="69" height="60"/>
-                    <state key="normal" image="s4">
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <state key="normal" title="才艺技能" image="s4">
                         <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </state>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="asx-O3-Kom">
                     <rect key="frame" x="301" y="13" width="69" height="60"/>
-                    <state key="normal" image="s5">
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <state key="normal" title="物流仓储" image="s5">
                         <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </state>
                 </button>
@@ -55,31 +59,36 @@
                     <constraints>
                         <constraint firstAttribute="height" constant="60" id="cub-DD-zaJ"/>
                     </constraints>
-                    <state key="normal" image="s6">
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <state key="normal" title="展会演出" image="s6">
                         <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </state>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aTD-Tc-m1a">
                     <rect key="frame" x="79" y="81.5" width="69" height="60"/>
-                    <state key="normal" image="s7">
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <state key="normal" title="教教培训" image="s7">
                         <color key="titleColor" red="0.16862745100000001" green="0.1019607843" blue="0.1019607843" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </state>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="o7l-Wy-2Pa">
                     <rect key="frame" x="153" y="81.5" width="69" height="60"/>
-                    <state key="normal" image="s8">
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <state key="normal" title="客服话务" image="s8">
                         <color key="titleColor" red="0.16862745100000001" green="0.1019607843" blue="0.1019607843" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </state>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="F8P-NU-bcu">
                     <rect key="frame" x="227" y="81" width="69" height="60"/>
-                    <state key="normal" image="s9">
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <state key="normal" title="文员助理" image="s9">
                         <color key="titleColor" red="0.16862745100000001" green="0.1019607843" blue="0.1019607843" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </state>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mOD-Tv-mur">
                     <rect key="frame" x="301" y="81.5" width="69" height="60"/>
-                    <state key="normal" image="s10">
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <state key="normal" title="其他" image="s10">
                         <color key="titleColor" red="0.16862745100000001" green="0.1019607843" blue="0.1019607843" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </state>
                 </button>
@@ -129,19 +138,31 @@
             </constraints>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
             <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="cy" destination="S9l-Vl-0WW" id="tLy-A5-VKN"/>
+                <outlet property="cyjn" destination="uyf-Lb-eVF" id="8s2-fT-2jf"/>
+                <outlet property="dg" destination="SRy-h3-t4z" id="n7j-IJ-y3h"/>
+                <outlet property="jjpx" destination="aTD-Tc-m1a" id="SM8-g1-uv4"/>
+                <outlet property="kfhw" destination="o7l-Wy-2Pa" id="YFL-ff-x0V"/>
+                <outlet property="qt" destination="mOD-Tv-mur" id="PHn-Cs-U1L"/>
+                <outlet property="tg" destination="YAK-ik-EcL" id="UxL-ml-KaC"/>
+                <outlet property="wlcc" destination="asx-O3-Kom" id="dyw-Ym-p6g"/>
+                <outlet property="wyzl" destination="F8P-NU-bcu" id="FdF-fV-3Xi"/>
+                <outlet property="zhyc" destination="v1v-1H-Krx" id="nBB-dj-vZx"/>
+            </connections>
             <point key="canvasLocation" x="24.5" y="316.5"/>
         </view>
     </objects>
     <resources>
-        <image name="s1" width="78" height="79"/>
-        <image name="s10" width="66" height="81"/>
-        <image name="s2" width="81" height="83"/>
-        <image name="s3" width="82" height="88"/>
-        <image name="s4" width="77" height="90"/>
-        <image name="s5" width="79" height="90"/>
-        <image name="s6" width="76" height="86"/>
-        <image name="s7" width="80" height="89"/>
-        <image name="s8" width="75" height="80"/>
-        <image name="s9" width="79" height="82"/>
+        <image name="s1" width="30" height="30"/>
+        <image name="s10" width="28" height="32"/>
+        <image name="s2" width="38" height="31"/>
+        <image name="s3" width="33" height="32"/>
+        <image name="s4" width="31" height="35"/>
+        <image name="s5" width="30" height="31"/>
+        <image name="s6" width="31" height="26"/>
+        <image name="s7" width="32" height="33"/>
+        <image name="s8" width="34" height="35"/>
+        <image name="s9" width="30" height="36"/>
     </resources>
 </document>
