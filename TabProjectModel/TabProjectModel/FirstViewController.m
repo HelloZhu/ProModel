@@ -17,6 +17,7 @@
 #import "qualityRecommends.h"
 #import "StarCompany.h"
 #import "interestJob.h"
+#import "XQViewController.h"
 
 
 @interface FirstViewController ()<UITableViewDataSource, UITableViewDelegate>
@@ -174,9 +175,21 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    ListTableViewController *list = [[ListTableViewController alloc] init];
-    list.hidesBottomBarWhenPushed = YES;
-    [self.navigationController pushViewController:list animated:YES];
+    if (indexPath.section == 0 || indexPath.section == 1) {
+        
+        NSUInteger index = self.localJob.resources.count - (indexPath.row+1);
+        LocalJob *job =  (indexPath.section == 1) ? self.localJob.resources[indexPath.row] : self.localJob.resources[index];
+        XQViewController *xq = [[XQViewController alloc] initWithNibName:@"XQViewController" bundle:[NSBundle mainBundle]];
+        xq.jobName = job.title;
+        xq.hidesBottomBarWhenPushed = YES;
+        [self.navigationController pushViewController:xq animated:YES];
+    }else{
+        ListTableViewController *list = [[ListTableViewController alloc] init];
+        list.hidesBottomBarWhenPushed = YES;
+        [self.navigationController pushViewController:list animated:YES];
+    }
+    
+    
 }
 
 - (UITableView *)tableView
@@ -188,7 +201,23 @@
         //_tableView.separatorStyle = UITableViewCellSeparatorStyleNone;
         MainPageHeader *header = [[[NSBundle mainBundle] loadNibNamed:@"MainPageHeader" owner:nil options:nil] firstObject];
         _tableView.tableHeaderView = header;
-        
+        header.buttonActionBlock = ^(NSString *title) {
+            
+            if ([title isEqualToString:@"100"]) {
+                title = @"传单";
+            }else if ([title isEqualToString:@"101"]){
+                title = @"主播";
+            }else if ([title isEqualToString:@"102"]){
+                title = @"收银";
+            }else if ([title isEqualToString:@"103"]){
+                title = @"辅导";
+            }
+            
+            ListTableViewController *list = [[ListTableViewController alloc] init];
+            list.title = title;
+            list.hidesBottomBarWhenPushed = YES;
+            [self.navigationController pushViewController:list animated:YES];
+        };
         [self.tableView registerNib:[UINib nibWithNibName:@"DetailTableViewCell" bundle:[NSBundle mainBundle]] forCellReuseIdentifier:@"DetailTableViewCell"];
         [self.tableView registerNib:[UINib nibWithNibName:@"QuweiTableViewCell" bundle:[NSBundle mainBundle]] forCellReuseIdentifier:@"QuweiTableViewCell"];
         [self.tableView registerNib:[UINib nibWithNibName:@"JPTableViewCell" bundle:[NSBundle mainBundle]] forCellReuseIdentifier:@"JPTableViewCell"];

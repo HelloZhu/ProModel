@@ -17,5 +17,11 @@
     // Drawing code
 }
 */
+- (IBAction)button:(id)sender {
+    UIButton *button = (UIButton *)sender;
+    if (self.buttonActionBlock) {
+        self.buttonActionBlock([NSString stringWithFormat:@"%ld",(long)button.tag]);
+    }
+}
 
 @end

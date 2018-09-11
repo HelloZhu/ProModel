@@ -29,6 +29,9 @@
                                     <constraint firstAttribute="height" constant="100" id="wJr-xG-WBT"/>
                                 </constraints>
                                 <state key="normal" backgroundImage="qw1"/>
+                                <connections>
+                                    <action selector="buttonAction:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="rEv-TO-NLb"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0Qc-a3-shi">
                                 <rect key="frame" x="0.0" y="102" width="31" height="14.5"/>
@@ -56,6 +59,9 @@
                                     <constraint firstAttribute="height" constant="100" id="6UA-kz-hzH"/>
                                 </constraints>
                                 <state key="normal" backgroundImage="qw1"/>
+                                <connections>
+                                    <action selector="buttonAction:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="nT6-wP-zxv"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0GT-pF-gTI">
                                 <rect key="frame" x="0.0" y="102" width="31" height="14.5"/>
@@ -82,6 +88,9 @@
                                     <constraint firstAttribute="height" constant="100" id="P5W-jk-JvC"/>
                                 </constraints>
                                 <state key="normal" backgroundImage="qw1"/>
+                                <connections>
+                                    <action selector="buttonAction:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="iwp-0q-5r3"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mpr-3F-6KF">
                                 <rect key="frame" x="0.0" y="102" width="31" height="14.5"/>
@@ -109,6 +118,9 @@
                                     <constraint firstAttribute="height" constant="100" id="raP-aP-9Xi"/>
                                 </constraints>
                                 <state key="normal" backgroundImage="qw1"/>
+                                <connections>
+                                    <action selector="buttonAction:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="LbU-pb-HSO"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="orB-PT-B6H">
                                 <rect key="frame" x="0.0" y="102" width="31" height="14.5"/>

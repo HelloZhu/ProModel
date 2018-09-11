@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface MainPageHeader : UIView
-
+/** */
+@property (nonatomic,copy) void(^buttonActionBlock)(NSString *title);
 @end
+

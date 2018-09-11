@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface XQViewController : UIViewController
-
+@property (nonatomic, copy) NSString *jobName;
 @end

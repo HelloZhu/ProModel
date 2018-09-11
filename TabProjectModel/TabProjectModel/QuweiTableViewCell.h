@@ -17,5 +17,5 @@
 @property (weak, nonatomic) IBOutlet UILabel *thirdtag;
 @property (weak, nonatomic) IBOutlet UIButton *fouth;
 @property (weak, nonatomic) IBOutlet UILabel *fouthtag;
-
+@property (nonatomic,copy) void(^buttonActionBlock)(NSString *title);
 @end

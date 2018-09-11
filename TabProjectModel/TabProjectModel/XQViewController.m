@@ -103,7 +103,8 @@
 {
     /** */
     dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
-        NSString *path = [[NSBundle mainBundle] pathForResource:@"detail" ofType:@"json"];
+        int x = arc4random() % 50;
+        NSString *path = [[NSBundle mainBundle] pathForResource:[NSString stringWithFormat:@"detail%d",x] ofType:nil];
         NSData *data = [NSData dataWithContentsOfFile:path];
         NSDictionary *dict = [NSJSONSerialization JSONObjectWithData:data options:0 error:nil];
         self.details = [JobDeatil yy_modelWithDictionary:dict];
@@ -119,7 +120,7 @@
 
 - (void)setdata
 {
-    self.header.title.text = self.details.data.title;
+    self.header.title.text = self.jobName;
     self.header.number.text = [NSString stringWithFormat:@"招%ld人",(long)self.details.data.jobCount];
     self.header.money.text = self.details.data.salary;
     self.header.riqi.text = [NSString stringWithFormat:@"工作日期：%@",self.details.data.jobDate];
@@ -128,12 +129,30 @@
 //    self.header.neirong.text = @"";
 //    self.header.gongzuoyaoqiu.text = @"";
     self.header.gsming.text = self.details.data.company.name;
-    self.header.baomrenshu.text = [NSString stringWithFormat:@"报名人数%ld人",(long)self.details.data.applyBalance];
-//    [self.header.ren1 sd_setImageWithURL:[NSURL URLWithString:@""]];
-//    [self.header.ren2 sd_setImageWithURL:[NSURL URLWithString:@""]];
-//    [self.header.ren1 sd_setImageWithURL:[NSURL URLWithString:@""]];
-//    [self.header.ren1 sd_setImageWithURL:[NSURL URLWithString:@""]];
-    [self.header.gongsiimage sd_setImageWithURL:[NSURL URLWithString:self.details.data.company.logo]];
+    self.header.baomrenshu.text = [NSString stringWithFormat:@"报名人数%ld人",(long)self.details.data.users.count];
+   
+    self.header.ren1.hidden = self.header.ren2.hidden= self.header.ren3.hidden = self.header.ren4.hidden = YES;
+    
+    [self.details.data.users enumerateObjectsUsingBlock:^(id  _Nonnull obj, NSUInteger idx, BOOL * _Nonnull stop) {
+       
+        User *user = obj;
+        if (idx==0) {
+             [self.header.ren1 sd_setImageWithURL:[NSURL URLWithString:user.logo] placeholderImage:[UIImage imageNamed:@"icon_avatar_man"]];
+            self.header.ren1.hidden = NO;
+        }else if (idx == 1){
+             [self.header.ren2 sd_setImageWithURL:[NSURL URLWithString:user.logo] placeholderImage:[UIImage imageNamed:@"icon_avatar_man"]];
+            self.header.ren2.hidden = NO;
+        }else if (idx == 2){
+             [self.header.ren3 sd_setImageWithURL:[NSURL URLWithString:user.logo] placeholderImage:[UIImage imageNamed:@"icon_avatar_man"]];
+            self.header.ren3.hidden = NO;
+        }else if (idx == 3){
+             [self.header.ren4 sd_setImageWithURL:[NSURL URLWithString:user.logo] placeholderImage:[UIImage imageNamed:@"icon_avatar_man"]];
+            self.header.ren4.hidden = NO;
+             *stop = YES;
+        }
+    }];
+    
+    [self.header.gongsiimage sd_setImageWithURL:[NSURL URLWithString:self.details.data.company.logo]placeholderImage:[UIImage imageNamed:@"icon_avatar_man"]];
     CGFloat hei = [self.details.data.jobDesc heightWithStringFont:self.header.yaoqiu.font fixedWidth:[UIScreen mainScreen].bounds.size.width];
     self.header.frame = CGRectMake(0, 0, [UIScreen mainScreen].bounds.size.width, self.header.height+hei+50);
 }

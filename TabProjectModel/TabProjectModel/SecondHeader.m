@@ -27,5 +27,13 @@
     [self.wyzl jk_setImagePosition:LXMImagePositionTop spacing:5];
     [self.qt jk_setImagePosition:LXMImagePositionTop spacing:5];
 }
+- (IBAction)buttonAction:(id)sender {
+    UIButton *button = (UIButton *)sender;
+    if (self.buttonActionBlock) {
+        self.buttonActionBlock(button.currentTitle);
+    }
+}
+
+
 
 @end

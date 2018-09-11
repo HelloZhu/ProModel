@@ -19,5 +19,5 @@
 @property (weak, nonatomic) IBOutlet UIButton *kfhw;
 @property (weak, nonatomic) IBOutlet UIButton *wyzl;
 @property (weak, nonatomic) IBOutlet UIButton *qt;
-
+@property (nonatomic,copy) void(^buttonActionBlock)(NSString *title);
 @end

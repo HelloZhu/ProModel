@@ -21,5 +21,11 @@
     // Configure the view for the selected state
     
 }
+- (IBAction)buttonAction:(id)sender {
+    UIButton *button = (UIButton *)sender;
+    if (self.buttonActionBlock) {
+        self.buttonActionBlock(button.currentTitle);
+    }
+}
 
 @end

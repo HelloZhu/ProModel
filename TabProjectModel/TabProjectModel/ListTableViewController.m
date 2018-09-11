@@ -64,8 +64,10 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
+    JobCenter *job = self.jobs.results[indexPath.row];
     XQViewController *xq = [[XQViewController alloc] initWithNibName:@"XQViewController" bundle:[NSBundle mainBundle]];
     xq.hidesBottomBarWhenPushed = YES;
+    xq.jobName = job.title;
     [self.navigationController pushViewController:xq animated:YES];
 }
 

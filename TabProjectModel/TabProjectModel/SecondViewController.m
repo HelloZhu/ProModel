@@ -11,6 +11,7 @@
 #import "XQViewController.h"
 #import "SecondHeader.h"
 #import "JobCenter.h"
+#import "ListTableViewController.h"
 
 @interface SecondViewController ()
 @property (nonatomic, strong) JobCenters *jobs;
@@ -52,6 +53,13 @@
     self.tableView.rowHeight = 60;
     [self.tableView registerNib:[UINib nibWithNibName:@"DetailTableViewCell" bundle:[NSBundle mainBundle]] forCellReuseIdentifier:@"DetailTableViewCell"];
     SecondHeader *header = [[[NSBundle mainBundle] loadNibNamed:@"SecondHeader" owner:nil options:nil] firstObject];
+    header.buttonActionBlock = ^(NSString *title) {
+     
+        ListTableViewController *list = [[ListTableViewController alloc] init];
+        list.title = title;
+        list.hidesBottomBarWhenPushed = YES;
+        [self.navigationController pushViewController:list animated:YES];
+    };
     self.tableView.tableHeaderView = header;
     [self createLocalJob];
 }
@@ -85,8 +93,10 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
+    JobCenter *job = self.jobs.results[indexPath.row];
     XQViewController *xq = [[XQViewController alloc] initWithNibName:@"XQViewController" bundle:[NSBundle mainBundle]];
     xq.hidesBottomBarWhenPushed = YES;
+    xq.jobName = job.title;
     [self.navigationController pushViewController:xq animated:YES];
 }
 
