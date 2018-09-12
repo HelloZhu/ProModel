@@ -17,4 +17,5 @@
 #import <YYModel/YYModel.h>
 #import <UIImageView+WebCache.h>
 #import <UIButton+WebCache.h>
+#import <SVProgressHUD.h>
 #endif /* PrefixHeader_pch */
