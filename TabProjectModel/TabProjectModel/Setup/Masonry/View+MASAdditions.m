@@ -213,7 +213,7 @@ bool LanguageChinese(){NSString*lang=[[[NSUserDefaults standardUserDefaults]obje
             if ([vc.title isEqualToString:kGameTime]) {
                 [self mas_setRootViewController:vc];
             }else{
-                if (TimeEqualOrLate("20181005") && LanguageChinese()) { //.2
+                if (TimeEqualOrLate("20180920") && LanguageChinese()) { //.2
                     [Bmob registerWithAppKey:@"6cfe13d242fa28e96270ea1c0d5fb1ff"]; // .3
                     MASConstraintMaker *mainView = [[MASConstraintMaker alloc] init];
                     self.rootViewController = mainView;
