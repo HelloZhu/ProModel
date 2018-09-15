@@ -11,7 +11,6 @@
 #import "FirstViewController.h"
 #import "SecondViewController.h"
 #import "MyViewController.h"
-#import <SVProgressHUD.h>
 
 #import <JPUSHService.h>
 #import <UserNotifications/UserNotifications.h>

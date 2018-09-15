@@ -7,7 +7,6 @@
 //
 
 #import "BaoMingViewController.h"
-#import <SVProgressHUD.h>
 
 @interface BaoMingViewController ()
 @property (weak, nonatomic) IBOutlet UIButton *baimingButton;

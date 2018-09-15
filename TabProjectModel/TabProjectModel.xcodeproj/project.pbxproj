@@ -221,7 +221,7 @@
 		20D6B68E214CDF0D002A934D /* UIImage+Rotate.m in Sources */ = {isa = PBXBuildFile; fileRef = 20D6B648214CDF0C002A934D /* UIImage+Rotate.m */; };
 		20D6B68F214CDF0D002A934D /* UIViewController+loadView.m in Sources */ = {isa = PBXBuildFile; fileRef = 20D6B64A214CDF0C002A934D /* UIViewController+loadView.m */; };
 		20D6B695214CF340002A934D /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 20D6B694214CF340002A934D /* UserNotifications.framework */; };
-		7A9EFC11D2EE93629C759137 /* libPods-TabProjectModel.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E8D5441B820708A1DAE8CCB /* libPods-TabProjectModel.a */; };
+		66A3EE298558E25C75081F7A /* Pods_TabProjectModel.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 30E7B80FF74BF859F4EAB15C /* Pods_TabProjectModel.framework */; };
 		A7C54AD22144EB8B0050B0EF /* UIButton+JKImagePosition.m in Sources */ = {isa = PBXBuildFile; fileRef = A7C54AD12144EB8B0050B0EF /* UIButton+JKImagePosition.m */; };
 /* End PBXBuildFile section */
 
@@ -547,8 +547,8 @@
 		20D6B64A214CDF0C002A934D /* UIViewController+loadView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+loadView.m"; sourceTree = "<group>"; };
 		20D6B694214CF340002A934D /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
 		20D6B696214CF430002A934D /* TabProjectModel.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TabProjectModel.entitlements; sourceTree = "<group>"; };
+		30E7B80FF74BF859F4EAB15C /* Pods_TabProjectModel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TabProjectModel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		318F23013340AA8F0E4B5830 /* Pods-TabProjectModel.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TabProjectModel.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TabProjectModel/Pods-TabProjectModel.debug.xcconfig"; sourceTree = "<group>"; };
-		3E8D5441B820708A1DAE8CCB /* libPods-TabProjectModel.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TabProjectModel.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D9DAE1D778200950484644C /* Pods-TabProjectModel.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TabProjectModel.release.xcconfig"; path = "Pods/Target Support Files/Pods-TabProjectModel/Pods-TabProjectModel.release.xcconfig"; sourceTree = "<group>"; };
 		A7C54AD02144EB8B0050B0EF /* UIButton+JKImagePosition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+JKImagePosition.h"; sourceTree = "<group>"; };
 		A7C54AD12144EB8B0050B0EF /* UIButton+JKImagePosition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+JKImagePosition.m"; sourceTree = "<group>"; };
@@ -563,7 +563,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				20D6B695214CF340002A934D /* UserNotifications.framework in Frameworks */,
-				7A9EFC11D2EE93629C759137 /* libPods-TabProjectModel.a in Frameworks */,
+				66A3EE298558E25C75081F7A /* Pods_TabProjectModel.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1052,7 +1052,7 @@
 			isa = PBXGroup;
 			children = (
 				20D6B694214CF340002A934D /* UserNotifications.framework */,
-				3E8D5441B820708A1DAE8CCB /* libPods-TabProjectModel.a */,
+				30E7B80FF74BF859F4EAB15C /* Pods_TabProjectModel.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -1068,7 +1068,7 @@
 				20ACD54F213B8DAA00B5AFDA /* Sources */,
 				20ACD550213B8DAA00B5AFDA /* Frameworks */,
 				20ACD551213B8DAA00B5AFDA /* Resources */,
-				E1520344352A3FB7EA6A37A9 /* [CP] Copy Pods Resources */,
+				BC295E0B4BD82FE461F31B11 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -1261,24 +1261,38 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		E1520344352A3FB7EA6A37A9 /* [CP] Copy Pods Resources */ = {
+		BC295E0B4BD82FE461F31B11 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-TabProjectModel/Pods-TabProjectModel-resources.sh",
-				"${PODS_ROOT}/IQKeyboardManager/IQKeyboardManager/Resources/IQKeyboardManager.bundle",
-				"${PODS_ROOT}/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle",
+				"${SRCROOT}/Pods/Target Support Files/Pods-TabProjectModel/Pods-TabProjectModel-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework",
+				"${BUILT_PRODUCTS_DIR}/FMDB/FMDB.framework",
+				"${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework",
+				"${BUILT_PRODUCTS_DIR}/LKDBHelper/LKDBHelper.framework",
+				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
+				"${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework",
+				"${BUILT_PRODUCTS_DIR}/WMPageController/WMPageController.framework",
+				"${BUILT_PRODUCTS_DIR}/YYModel/YYModel.framework",
+				"${BUILT_PRODUCTS_DIR}/YYText/YYText.framework",
 			);
-			name = "[CP] Copy Pods Resources";
+			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/IQKeyboardManager.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SVProgressHUD.bundle",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AFNetworking.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FMDB.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/IQKeyboardManager.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/LKDBHelper.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SVProgressHUD.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/WMPageController.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YYModel.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YYText.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TabProjectModel/Pods-TabProjectModel-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TabProjectModel/Pods-TabProjectModel-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */

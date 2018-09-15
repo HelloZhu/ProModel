@@ -1,0 +1,6 @@
+framework module Pods_TabProjectModel {
+  umbrella header "Pods-TabProjectModel-umbrella.h"
+
+  export *
+  module * { export * }
+}
