@@ -17,6 +17,12 @@
     // Drawing code
 }
 */
+
+- (void)awakeFromNib
+{
+    [super awakeFromNib];
+}
+
 - (IBAction)button:(id)sender {
     UIButton *button = (UIButton *)sender;
     if (self.buttonActionBlock) {

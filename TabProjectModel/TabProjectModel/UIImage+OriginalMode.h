@@ -10,4 +10,5 @@
 
 @interface UIImage (OriginalMode)
 +(instancetype)zac_imageWithOriginalModeName:(NSString *)imageName;
+- (UIImage *)imageWithColor:(UIColor *)color;
 @end

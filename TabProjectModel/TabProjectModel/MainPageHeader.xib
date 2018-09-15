@@ -167,6 +167,12 @@
             </constraints>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
             <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="cd" destination="xwe-TF-I3I" id="pt7-cI-wff"/>
+                <outlet property="fd" destination="Aab-0u-BF5" id="gw3-xL-NHc"/>
+                <outlet property="sy" destination="hSs-5X-FY9" id="S7d-x3-ii9"/>
+                <outlet property="zb" destination="Wgy-Jg-yYH" id="sge-1T-xpt"/>
+            </connections>
             <point key="canvasLocation" x="-200.5" y="12"/>
         </view>
     </objects>

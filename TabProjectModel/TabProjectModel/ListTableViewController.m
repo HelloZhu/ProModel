@@ -29,7 +29,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
    
-    self.title = @"全部职位";
+    //self.title = @"全部职位";
     self.tableView.rowHeight = 60;
     [self.tableView registerNib:[UINib nibWithNibName:@"DetailTableViewCell" bundle:[NSBundle mainBundle]] forCellReuseIdentifier:@"DetailTableViewCell"];
     [self createLocalJob];

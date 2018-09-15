@@ -14,6 +14,9 @@
 #import "JobDeatil.h"
 #import "NSString+LabelWidthAndHeight.h"
 #import "UIView+SetRect.h"
+#import "BaoMRecord.h"
+#import "ShouCang.h"
+#import "CompanyViewController.h"
 
 @interface XQViewController ()<UITableViewDelegate,UITableViewDataSource>
 @property (weak, nonatomic) IBOutlet UIButton *baomingBtn;
@@ -93,10 +96,23 @@
 }
 
 - (IBAction)shoucang:(id)sender {
+    
+    ShouCang *reco = [ShouCang new];
+    reco.date = [NSString stringWithFormat:@"%@",[NSDate date]];
+    reco.gongsilogo = self.details.data.company.logo;
+    reco.gongsi = self.details.data.company.name;;
+    [reco saveToDB];
+    
+    [SVProgressHUD showSuccessWithStatus:@"收藏成功！"];
 }
 - (IBAction)baoming:(id)sender {
     BaoMingViewController *vc = [[BaoMingViewController alloc] initWithNibName:@"BaoMingViewController" bundle:[NSBundle mainBundle]];
     [self.navigationController pushViewController:vc animated:YES];
+    BaoMRecord *reco = [BaoMRecord new];
+    reco.date = [NSString stringWithFormat:@"%@",[NSDate date]];
+    reco.gongsilogo = self.details.data.company.logo;
+    reco.gongsi = self.details.data.company.name;;
+    [reco saveToDB];
 }
 
 - (void)createLocalJob
@@ -152,9 +168,15 @@
         }
     }];
     
+    __weak typeof(self) weakSelf = self;
     [self.header.gongsiimage sd_setImageWithURL:[NSURL URLWithString:self.details.data.company.logo]placeholderImage:[UIImage imageNamed:@"icon_avatar_man"]];
     CGFloat hei = [self.details.data.jobDesc heightWithStringFont:self.header.yaoqiu.font fixedWidth:[UIScreen mainScreen].bounds.size.width];
     self.header.frame = CGRectMake(0, 0, [UIScreen mainScreen].bounds.size.width, self.header.height+hei+50);
+    self.header.selectCompany = ^{
+        CompanyViewController *vc = [[CompanyViewController alloc] initWithNibName:@"CompanyViewController" bundle:[NSBundle mainBundle]];
+        vc.detail = weakSelf.details.data.company;
+        [weakSelf.navigationController pushViewController:vc animated:YES];
+    };
 }
 
 @end

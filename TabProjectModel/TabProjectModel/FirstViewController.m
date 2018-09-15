@@ -109,6 +109,13 @@
         cell.thirdtag.text = job3.title;
         cell.fouthtag.text = job4.title;
         
+        cell.buttonActionBlock = ^(NSString *title) {
+            ListTableViewController *list = [[ListTableViewController alloc] init];
+            list.hidesBottomBarWhenPushed = YES;
+            list.title = title;
+            [self.navigationController pushViewController:list animated:YES];
+        };
+        
         return cell;
     }
     else if (indexPath.section == 3){

@@ -32,4 +32,6 @@
 @property (weak, nonatomic) IBOutlet UIImageView *ren3;
 @property (weak, nonatomic) IBOutlet UIImageView *ren4;
 
+@property (copy, nonatomic) void(^selectCompany)(void);
+
 @end

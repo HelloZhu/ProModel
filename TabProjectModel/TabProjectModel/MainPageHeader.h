@@ -9,6 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface MainPageHeader : UIView
+@property (weak, nonatomic) IBOutlet UIImageView *cd;
+@property (weak, nonatomic) IBOutlet UIImageView *zb;
+@property (weak, nonatomic) IBOutlet UIImageView *sy;
+@property (weak, nonatomic) IBOutlet UIImageView *fd;
 /** */
 @property (nonatomic,copy) void(^buttonActionBlock)(NSString *title);
 @end

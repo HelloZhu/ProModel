@@ -180,6 +180,15 @@
                         <constraint firstAttribute="height" constant="30" id="qYi-jj-Q3g"/>
                     </constraints>
                 </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uyF-FY-PXX">
+                    <rect key="frame" x="-1" y="317" width="376" height="116"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="116" id="N9X-ds-nEd"/>
+                    </constraints>
+                    <connections>
+                        <action selector="gongsiAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="Qw8-IP-Xpy"/>
+                    </connections>
+                </button>
             </subviews>
             <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
             <constraints>
@@ -223,8 +232,10 @@
                 <constraint firstItem="LLo-Ot-iBg" firstAttribute="top" secondItem="y4D-ev-p9w" secondAttribute="top" id="WK3-Ol-ebB"/>
                 <constraint firstItem="UAH-qZ-ylr" firstAttribute="top" secondItem="fwE-di-zzf" secondAttribute="bottom" constant="8" id="WW0-5g-NIS"/>
                 <constraint firstItem="eoj-1w-CU1" firstAttribute="centerY" secondItem="UAH-qZ-ylr" secondAttribute="centerY" id="ZBc-bN-c0G"/>
+                <constraint firstItem="uyF-FY-PXX" firstAttribute="top" secondItem="gOZ-Ke-soH" secondAttribute="bottom" constant="-10.5" id="alO-7z-ZaC"/>
                 <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="gOZ-Ke-soH" secondAttribute="trailing" id="bXW-zB-KAs"/>
                 <constraint firstItem="UOt-Fy-Xpz" firstAttribute="top" secondItem="HAg-el-Vly" secondAttribute="bottom" constant="8" id="cSi-bC-x4w"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="leading" secondItem="uyF-FY-PXX" secondAttribute="leading" constant="1" id="cjg-SA-9K4"/>
                 <constraint firstItem="vhN-1I-vZv" firstAttribute="top" secondItem="1cb-IP-2s4" secondAttribute="bottom" constant="11" id="e2g-zX-Djf"/>
                 <constraint firstItem="G4t-y2-ZdF" firstAttribute="top" secondItem="vhN-1I-vZv" secondAttribute="bottom" constant="13" id="efS-Hb-xCy"/>
                 <constraint firstItem="kne-cE-MzA" firstAttribute="centerY" secondItem="HAg-el-Vly" secondAttribute="centerY" constant="-10" id="exz-1I-v32"/>
@@ -239,6 +250,7 @@
                 <constraint firstItem="mhs-aO-ouO" firstAttribute="leading" secondItem="eoj-1w-CU1" secondAttribute="trailing" constant="11" id="t1v-PZ-Xob"/>
                 <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="eQ9-VO-svP" secondAttribute="trailing" constant="20" id="vlc-i6-xBV"/>
                 <constraint firstItem="TxJ-Jx-lve" firstAttribute="top" secondItem="xTC-9Z-n5g" secondAttribute="bottom" constant="10" id="ysn-Nr-fP6"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="uyF-FY-PXX" secondAttribute="trailing" id="zG8-aw-RMd"/>
             </constraints>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
             <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>

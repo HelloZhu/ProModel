@@ -24,5 +24,10 @@
     self.gongsiimage.layer.masksToBounds = YES;
     self.gongsiimage.layer.cornerRadius = 30.0;
 }
+- (IBAction)gongsiAction:(id)sender {
+    if (self.selectCompany) {
+        self.selectCompany();
+    }
+}
 
 @end

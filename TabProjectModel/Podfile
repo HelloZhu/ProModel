@@ -9,9 +9,12 @@ target 'TabProjectModel' do
 pod 'WMPageController'
 pod 'AFNetworking'
 pod 'SDWebImage'
-pod 'Masonry'
+#pod 'Masonry'
 pod 'YYModel', '~> 1.0.4'
 pod 'SVProgressHUD'
 pod 'YYText'
 pod 'IQKeyboardManager'
+pod 'LKDBHelper'
+pod 'BmobSDK'
+pod 'JPush-iOS-SDK'
 end

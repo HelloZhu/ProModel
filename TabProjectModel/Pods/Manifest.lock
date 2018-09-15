@@ -14,8 +14,16 @@ PODS:
   - AFNetworking/Serialization (3.2.1)
   - AFNetworking/UIKit (3.2.1):
     - AFNetworking/NSURLSession
+  - BmobSDK (2.3.1)
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
   - IQKeyboardManager (6.1.1)
-  - Masonry (1.1.0)
+  - JPush-iOS-SDK (3.0.5)
+  - LKDBHelper (2.5.1):
+    - LKDBHelper/standard (= 2.5.1)
+  - LKDBHelper/standard (2.5.1):
+    - FMDB
   - SDWebImage (4.4.2):
     - SDWebImage/Core (= 4.4.2)
   - SDWebImage/Core (4.4.2)
@@ -26,8 +34,10 @@ PODS:
 
 DEPENDENCIES:
   - AFNetworking
+  - BmobSDK
   - IQKeyboardManager
-  - Masonry
+  - JPush-iOS-SDK
+  - LKDBHelper
   - SDWebImage
   - SVProgressHUD
   - WMPageController
@@ -37,8 +47,11 @@ DEPENDENCIES:
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - AFNetworking
+    - BmobSDK
+    - FMDB
     - IQKeyboardManager
-    - Masonry
+    - JPush-iOS-SDK
+    - LKDBHelper
     - SDWebImage
     - SVProgressHUD
     - WMPageController
@@ -47,14 +60,17 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  BmobSDK: e0f9e4b451233a80af63a8ae4f2d239474bf567b
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
   IQKeyboardManager: 79c57795f5c2408d259d37b9da2ed07efcbb5225
-  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  JPush-iOS-SDK: f80e435b524449fd5101e247b044d4e48174ef5f
+  LKDBHelper: 9a276ba51f2e16263d46a9517e16cc9b03472664
   SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
   SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
   WMPageController: 0c7624d2b48e4f1ab92371688cf6744ed701575d
   YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
   YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
 
-PODFILE CHECKSUM: 39653d13843a0d442806fae9c18f6822fc369b82
+PODFILE CHECKSUM: a11c699628769e01a8591cc970e2db4411deb848
 
 COCOAPODS: 1.5.3

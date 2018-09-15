@@ -75,8 +75,8 @@
 {
     /** */
     dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
-        int x = arc4random() % 50;
-        NSString *path = [[NSBundle mainBundle] pathForResource:@"user" ofType:nil];
+        int x = arc4random() % 12;
+        NSString *path = [[NSBundle mainBundle] pathForResource:[NSString stringWithFormat:@"user%d",x] ofType:nil];
         NSData *data = [NSData dataWithContentsOfFile:path];
         NSDictionary *dict = [NSJSONSerialization JSONObjectWithData:data options:0 error:nil];
         self.company = [CompanyDetail yy_modelWithDictionary:dict];
@@ -92,7 +92,15 @@
 
 - (void)setdata
 {
- 
+    self.header.name.text = self.detail.name;
+    [self.header.lgo sd_setImageWithURL:[NSURL URLWithString:self.detail.logo] placeholderImage:[UIImage imageNamed:@""]];
+    self.header.hy.text = self.company.data.industry.value;
+    self.header.gm.text = self.company.data.companyScale.value;
+    self.header.dz.text = self.company.data.address;
+    self.header.clsj.text = [NSString stringWithFormat:@"%d天", arc4random() % 50];
+    self.header.clV.text = [NSString stringWithFormat:@"1.%d", arc4random() % 50];
+    self.header.jianjie.text = self.company.data.introduction;
+    
 }
 
 

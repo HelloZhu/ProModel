@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AboutViewController">
+            <connections>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ARl-Or-euC">
+                    <rect key="frame" x="147" y="253.5" width="80" height="80"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="80" id="UW2-bB-DnD"/>
+                        <constraint firstAttribute="height" constant="80" id="sTI-Bd-0iP"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cUI-ET-YN9">
+                    <rect key="frame" x="166" y="341" width="42" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="当前版本1.0" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mke-k0-Kbx">
+                    <rect key="frame" x="149.5" y="370" width="75.5" height="17"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="cUI-ET-YN9" firstAttribute="top" secondItem="ARl-Or-euC" secondAttribute="bottom" constant="7.5" id="J2V-3B-USw"/>
+                <constraint firstItem="cUI-ET-YN9" firstAttribute="centerX" secondItem="ARl-Or-euC" secondAttribute="centerX" id="WHT-gg-sxc"/>
+                <constraint firstItem="Mke-k0-Kbx" firstAttribute="top" secondItem="cUI-ET-YN9" secondAttribute="bottom" constant="8" id="WJq-H0-Dm8"/>
+                <constraint firstItem="ARl-Or-euC" firstAttribute="centerX" secondItem="Q5M-cg-NOt" secondAttribute="centerX" id="aaP-H9-4SY"/>
+                <constraint firstItem="ARl-Or-euC" firstAttribute="centerY" secondItem="Q5M-cg-NOt" secondAttribute="centerY" constant="-50" id="bh5-7C-gB5"/>
+                <constraint firstItem="Mke-k0-Kbx" firstAttribute="centerX" secondItem="cUI-ET-YN9" secondAttribute="centerX" id="nII-BB-hkH"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="Q5M-cg-NOt"/>
+        </view>
+    </objects>
+</document>
