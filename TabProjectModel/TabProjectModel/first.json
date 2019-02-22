@@ -408,30 +408,6 @@
 				"subContent": "在枫蓝国际中心附近",
 				"subLogo": "https://qiniu-image.qtshe.com/1527230190351_872.png",
 				"partJobId": 314653
-			}, {
-				"resourceId": 280843,
-				"title": "ZARA华宇购物中心学生兼职店员",
-				"subTitle": "23元/小时 不限工作时间",
-				"jumpKey": "USER_PART_JOB_DETAIL_PAGE",
-				"image": "https://qiniu-image.qtshe.com/1542187441324_479.png",
-				"param": "[{\"name\":\"兼职id\",\"type\":\"String\",\"value\":\"280843\",\"key\":\"partJobId\"}]",
-				"salaryDesc": "23元/小时",
-				"distance": "1949.20km",
-				"subContent": "华宇时尚购物中心/1949.20km",
-				"subLogo": "https://qiniu-image.qtshe.com/1527230190351_872.png",
-				"partJobId": 280843
-			}, {
-				"resourceId": 280888,
-				"title": "ZARA富力广场学生兼职店员",
-				"subTitle": "23元/小时 不限工作时间",
-				"jumpKey": "USER_PART_JOB_DETAIL_PAGE",
-				"image": "https://qiniu-image.qtshe.com/1542187441324_479.png",
-				"param": "[{\"name\":\"兼职id\",\"type\":\"String\",\"value\":\"280888\",\"key\":\"partJobId\"}]",
-				"salaryDesc": "23元/小时",
-				"distance": "1943.07km",
-				"subContent": "北京富力广场购物中心/1943.07km",
-				"subLogo": "https://qiniu-image.qtshe.com/1527230190351_872.png",
-				"partJobId": 280888
 			}],
 			"subResources": [{
 				"resourceId": 1490478,
